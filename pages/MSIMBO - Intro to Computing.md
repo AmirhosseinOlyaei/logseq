@@ -14,8 +14,8 @@
 		-
 	- How to start a Web Project
 		- 1. Open my CLI interface, iTerm2
-		- 2. Create a new folder called "msimbo
-		- 3. Then we 'cd' into the 'msimbo folder
+		- 2. Create a new folder called 'msimbo-projects'
+		- 3. Then we 'cd' into the 'msimbo' folder
 		- 4. Create a folder called google-html
 		-
 		- CLI Commands
