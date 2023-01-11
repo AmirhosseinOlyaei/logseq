@@ -1,11 +1,11 @@
 - Challenges:
 	- How to solve real-world problems:
 		- TODO Know Your Tools
-		- Your Web Presence
-		- The Windows Operating System
-		- The Mac Operating System
-		- The Internet
-		- Command-line
+		- TODO Your Web Presence
+		- TODO The Windows Operating System
+		- TODO The Mac Operating System
+		- TODO The Internet
+		-
 		- HTML
 		- CSS
 		- JavaScript
