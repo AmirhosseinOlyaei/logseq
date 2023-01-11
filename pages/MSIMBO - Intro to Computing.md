@@ -62,4 +62,6 @@
 -
 - git checkout -b feature/css-styling
 - git checkout feature/css-styling
--
+- touch style.css
+- git add .
+- git commit -m "added an empty css file to a new branch"
