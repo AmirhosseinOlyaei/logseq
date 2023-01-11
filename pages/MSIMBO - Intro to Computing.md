@@ -26,4 +26,6 @@
 		- cd .. - takes one directory back
 		- rm -rf - remove folder w/ recursive force
 		-
-		-
+	- 2nd Fridays:
+		- How you got your solution
+		  How you collaborated with others
