@@ -43,6 +43,8 @@
 		- Two space at the end of the line, takes rest of the content to a new line
 		- `Distinct Block`
 		- ```
+		  A few lines in a distinct block
+		  B
 		  ```
 		-
 		-
