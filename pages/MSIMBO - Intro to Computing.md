@@ -30,7 +30,7 @@
 		- How you got your solution
 		- How you collaborated with others
 		-
-	- ##  Cheatsheet
+	- ## Markdown
 		- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 			- [Link to my GitHub](https://github.com/AmirhosseinOlyaei)
 			- >"quote"
