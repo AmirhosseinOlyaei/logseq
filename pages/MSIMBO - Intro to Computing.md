@@ -11,7 +11,7 @@
 		- TODO JavaScript
 		- TODO Capstone
 		- TODO Labs
--
+		-
 	- How to start a Web Project
 		- 1. Open my CLI interface, iTerm2
 		- 2. Create a new folder called "msimbo
