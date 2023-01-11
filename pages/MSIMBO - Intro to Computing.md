@@ -55,3 +55,4 @@
   #+BEGIN_TIP
   
   #+END_TIP
+- ctrl+command+d
