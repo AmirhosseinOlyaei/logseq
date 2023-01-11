@@ -5,12 +5,13 @@
 		- TODO The Windows Operating System
 		- TODO The Mac Operating System
 		- TODO The Internet
+		- TODO Command-line
+		- TODO HTML
+		- TODO CSS
+		- TODO JavaScript
+		- TODO Capstone
+		- TODO Labs
 		-
-		- HTML
-		- CSS
-		- JavaScript
-		- Capstone
-		- Labs
 -
 	- How to start a Web Project
 		- 1. Open my CLI interface, iTerm2
