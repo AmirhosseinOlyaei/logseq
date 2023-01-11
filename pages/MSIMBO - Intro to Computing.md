@@ -30,7 +30,7 @@
 		- How you got your solution
 		- How you collaborated with others
 		-
-	- > quote
+	- > "quote"
 	-
 -
 -
