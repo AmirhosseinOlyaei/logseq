@@ -59,4 +59,6 @@
 - ! div+p
 -
 - git branch feature/css-styling
-- git checkout -
+-
+- git checkout -b feature/css-styling
+-
