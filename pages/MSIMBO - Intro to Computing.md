@@ -31,7 +31,7 @@
 		- How you collaborated with others
 		-
 	- > "quote"
-	- [image](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+	- ![image](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 	-
 -
 -
