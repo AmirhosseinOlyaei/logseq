@@ -59,8 +59,10 @@
 - ! div+p
 -
 - [Git reference](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
--
+- git branch feature/css-styling
 - git checkout feature/css-styling
 - touch style.css
 - git add . && commit -m "added an empty css file to a new branch"
 - gco && gpu
+-
+- [SVG icons]()
