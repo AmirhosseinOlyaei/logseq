@@ -18,12 +18,12 @@
 		- 3. Then we 'cd' into the 'msimbo-projects' folder
 		- 4. Create a folder called 'google-html'
 		-
-		- CLI Commands
-			- mkdir - make a directory
-			- cd - changes into a directory
-			- ls - list
-			- ls -la - list in detail
-			- cd .. - takes one directory back
-			- rm -rf - remove folder w/ recursive force
-			-
-			-
+	- CLI Commands
+		- mkdir - make a directory
+		- cd - changes into a directory
+		- ls - list
+		- ls -la - list in detail
+		- cd .. - takes one directory back
+		- rm -rf - remove folder w/ recursive force
+		-
+		-
