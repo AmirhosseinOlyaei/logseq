@@ -37,4 +37,6 @@
 		- **Bold** & _Italic_
 		- * List
 		  * List
+		- 1. o list
+		  2. o list
 		-
