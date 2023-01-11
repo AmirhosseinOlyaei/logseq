@@ -31,26 +31,26 @@
 		- How you collaborated with others
 		-
 	- ##  Cheatsheet
-	- [Markdown  Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-		- [Link to my GitHub](https://github.com/AmirhosseinOlyaei)
-		- >"quote"
-		- ![image](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-		- #### Heading 4
-		- **Bold** & _Italic_
-		- * List
-		  * List
-		- 1. o list
-		  2. o list
-		- Two space at the end of the line, takes rest of the content to a new line
-		- `Distinct Block`
-		- ```
-		  A few lines in a distinct block
-		  B
-		  ```
-		- The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
-		-
-		-
-		-
+		- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+			- [Link to my GitHub](https://github.com/AmirhosseinOlyaei)
+			- >"quote"
+			- ![image](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+			- #### Heading 4
+			- **Bold** & _Italic_
+			- * List
+			  * List
+			- 1. o list
+			  2. o list
+			- Two space at the end of the line, takes rest of the content to a new line
+			- `Distinct Block`
+			- ```
+			  A few lines in a distinct block
+			  B
+			  ```
+			- The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+			-
+			-
+			-
 - input+btm+btn
 - div*3 
   #+BEGIN_TIP
