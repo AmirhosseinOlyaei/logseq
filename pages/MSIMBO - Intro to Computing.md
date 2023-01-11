@@ -61,4 +61,5 @@
 - git branch feature/css-styling
 -
 - git checkout -b feature/css-styling
+- git checkout feature/css-styling
 -
