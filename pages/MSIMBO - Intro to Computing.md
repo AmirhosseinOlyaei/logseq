@@ -29,7 +29,8 @@
 	- 2nd Fridays: Live Project Presentation
 		- How you got your solution
 		- How you collaborated with others
+		-
+	- > quote
 	-
-	- s
 -
 -
