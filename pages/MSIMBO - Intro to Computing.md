@@ -65,7 +65,6 @@
 - touch style.css
 - git add . && commit -m "added an empty css file to a new branch"
 - git push -u origin feature/css-styling
-- gc && gpu
 - git checkout main
 - git merge feature/css-styling
 - git add . && git commit -m "added an external CSS file"
