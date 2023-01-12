@@ -68,6 +68,7 @@
 - gco && gpu
 - git checkout main
 - git merge feature/css-styling
+- git add . && git commit -m "added an external CSS file"
 - git push -u origin main
 -
 - [SVG icons](https://heroicons.com/)
