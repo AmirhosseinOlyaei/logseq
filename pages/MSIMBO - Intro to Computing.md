@@ -86,4 +86,4 @@
 - !yt create a ... "search in youtube"
 - sponsorblock extension chrome
 - DF tube extension chrome
-- CSS #right img
+- CSS tag: #right img, #right svg {width="20px"}
