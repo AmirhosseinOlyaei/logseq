@@ -87,3 +87,4 @@
 - sponsorblock extension chrome
 - DF tube extension chrome
 - CSS tag: #right img, #right svg {width="20px"}
+- CSS tag: nav-bar #right {}
