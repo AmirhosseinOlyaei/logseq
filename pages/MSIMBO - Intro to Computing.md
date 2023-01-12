@@ -65,7 +65,8 @@
 - touch style.css
 - git add . && commit -m "added an empty css file to a new branch"
 - gco && gpu
--
+- gi
+- git merge feature/css-styling
 -
 - [SVG icons](https://heroicons.com/)
 -
