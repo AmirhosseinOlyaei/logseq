@@ -64,10 +64,11 @@
 - git checkout feature/css-styling
 - touch style.css
 - git add . && commit -m "added an empty css file to a new branch"
+- git push -u origin feature/css-styling
 - gco && gpu
 - git checkout main
 - git merge feature/css-styling
--
+- git push -u origin main
 -
 - [SVG icons](https://heroicons.com/)
 -
