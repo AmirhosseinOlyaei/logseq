@@ -86,5 +86,6 @@
 - !yt create a ... "search in youtube"
 - sponsorblock extension chrome
 - DF tube extension chrome
+- CSS tag: nav-bar {display:flex; justify-content: space-between;}
 - CSS tag: #right img, #right svg {width="20px"}
 - CSS tag: nav-bar #right {display: flex; justify-content: space-evenly;}
