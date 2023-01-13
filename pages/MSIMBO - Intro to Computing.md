@@ -89,5 +89,5 @@
 - CSS tag: nav-bar {display:flex; justify-content: space-between;}
 - CSS tag: #right img, #right svg {width="20px"}
 - CSS tag: nav-bar #right {display: flex; justify-content: space-evenly;}
-- [: Show current branch in iTerm2](https://ohmyz.sh/#install)
+- [[Git]] : Show current branch in iTerm2](https://ohmyz.sh/#install)
 -
