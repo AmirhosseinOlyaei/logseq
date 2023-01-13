@@ -89,3 +89,4 @@
 - CSS tag: nav-bar {display:flex; justify-content: space-between;}
 - CSS tag: #right img, #right svg {width="20px"}
 - CSS tag: nav-bar #right {display: flex; justify-content: space-evenly;}
+- [Show current bran]
