@@ -73,8 +73,10 @@
 - [SVG icons](https://heroicons.com/)
 -
 - In #search engine type "!gh"
-- in #vscode drag css tab to the side of window to have side by side windows with html
 - !g chrome color picker #extension #search
+-
+- in #vscode drag css tab to the side of window to have side by side windows with html
+-
 - #CSS file comments:
 	- ctl + /
 	- /* Link Typography */
@@ -84,6 +86,7 @@
 		- select tags, ctrl+shift+p, wrap with emmet, name a tag
 		- type # id=right in html
 		- type #right in css file
+-
 - !yt create a ... #search in youtube
 - sponsorblock #extension chrome
 - DF tube #extension chrome
