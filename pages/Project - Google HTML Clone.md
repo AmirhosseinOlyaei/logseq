@@ -9,5 +9,5 @@
 	- TODO create empty style.css file
 	- TODO Push project update to GitHub on new branch
 	- TODO Send @Dele link to repo for the new branch on slack
-	- | TODO Confirm I can fix from GitHub issues
+	- TODO Confirm I can fix from GitHub issues
 	-
