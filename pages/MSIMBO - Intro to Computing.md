@@ -91,5 +91,5 @@
 - CSS tag: nav-bar #right {display: flex; justify-content: space-evenly;}
 - #Git [Show current branch in iTerm2](https://ohmyz.sh/#install)
 - #Git [comment as "fixes [#1](https://github.com/AmirhosseinOlyaei/google-html/issues/1) - adds the reset.css file"]
-- #Git [li] ()
+- #Git [close fixed branch] (https://github.blog/2013-01-22-closing-issues-via-commit-messages)
 -
