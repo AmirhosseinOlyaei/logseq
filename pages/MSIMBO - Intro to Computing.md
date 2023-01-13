@@ -102,4 +102,5 @@
 - #search shareX download. Create a live gif link for windows
 - #CSS `#footer div:nth-child(2){display: flex;}`
 -
+- #CSS import google.font into css file
 -
