@@ -75,7 +75,8 @@
 - In search engine type "!gh"
 - in vscode drag css tab to the side of window to have side by side windows with html
 - !g chrome color picker extention
-- css file comments:
+- #CSS file comments:
+	- ctl + /
 	- /* Link Typography */
 	- /* Nav bar Layout */
 - <div id="nav-bar">
