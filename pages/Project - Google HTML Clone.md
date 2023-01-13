@@ -1,5 +1,6 @@
 - Problem
-  • Design a HTML/CSS clone of google.com
+	- Design a HTML/CSS clone of google.com
+	-
 - Roadmap
 	- TODO Create project folder
 	- TODO Create base readme.md and index.html files
