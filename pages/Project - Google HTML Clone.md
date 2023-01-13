@@ -9,5 +9,5 @@
 	- DONE Create new branch called feature/css-styling
 	- DONE create empty style.css file
 	- DONE Push project update to GitHub on new branch
-	- TODO Send @Dele link to repo for the new branch on slack
+	- DONE Send @Dele link to repo for the new branch on slack
 	- TODO Confirm I can fix from GitHub issues
