@@ -108,8 +108,3 @@
 	- #GitHub - Settings - #SSH keys tab - New SSH keys - paste here - copy after @ to the end of key - paste into the title area - Add SSH key
 	- clone SSH link
 	-
-	-
-	-
-	-
-	-
-	- clone ssh from github
