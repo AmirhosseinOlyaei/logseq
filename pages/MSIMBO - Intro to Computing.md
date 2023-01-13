@@ -102,7 +102,8 @@
 - #CSS `#footer div:nth-child(2){display: flex;}`
 - #CSS import google.font into css file. define font families and size in rem
 -
-- ssh-keygen -t rsa
+- #ssh
+	- ssh-keygen -t rsa
 	- cat ~/.ssh/id_rsa.pub
 	-
 	- clone ssh from github
