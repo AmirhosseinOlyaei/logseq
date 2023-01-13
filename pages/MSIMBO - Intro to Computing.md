@@ -30,7 +30,7 @@
 		- How you got your solution
 		- How you collaborated with others
 		-
-	- ## #Markdown
+	- #Markdown
 		- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 			- [Link to my GitHub](https://github.com/AmirhosseinOlyaei)
 			- >"quote"
@@ -59,7 +59,7 @@
 - ctrl+command+d
 - ! div+p
 -
-- [Git reference](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+- [#Git reference](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 - git branch feature/css-styling
 - git checkout feature/css-styling
 - touch style.css
