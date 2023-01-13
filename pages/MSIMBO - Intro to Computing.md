@@ -99,4 +99,4 @@
 -
 -
 - #Git issue template
--
+- shareX download
