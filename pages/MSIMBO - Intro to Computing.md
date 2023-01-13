@@ -103,7 +103,6 @@
 - #CSS import google.font into css file. define font families and size in rem
 -
 - #ssh authentication
-	-
 	- ssh-keygen -t rsa
 	- cat ~/.ssh/id_rsa.pub
 		- copy results
