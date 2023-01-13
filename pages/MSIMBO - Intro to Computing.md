@@ -99,4 +99,6 @@
 -
 -
 - #Git issue template
-- shareX download. Create a live gif link for windows.
+- #search shareX download. Create a live gif link for windows
+-
+-
