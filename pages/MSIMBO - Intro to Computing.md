@@ -74,7 +74,7 @@
 -
 - In search engine type "!gh"
 - in vscode drag css tab to the side of window to have side by side windows with html
-- !g chrome color picker extention
+- !g chrome color picker #extension #search
 - #CSS file comments:
 	- ctl + /
 	- /* Link Typography */
