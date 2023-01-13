@@ -106,7 +106,7 @@
 	- ssh-keygen -t rsa
 	- cat ~/.ssh/id_rsa.pub
 		- copy results
-	- #GitHub - Settings - #SSH keys tab - New SSH keys -
+	- #GitHub - Settings - #SSH keys tab - New SSH keys - paste here -
 	-
 	-
 	-
