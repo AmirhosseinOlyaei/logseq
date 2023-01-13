@@ -83,7 +83,7 @@
 	- select tags, ctrl+shift+p, wrap with emmet, name a tag
 	- type # id=right in html
 	- type #right in css file
-- !yt create a ... "search in youtube"
+- !yt create a ... #search in youtube
 - sponsorblock #extension chrome
 - DF tube #extension chrome
 - #CSS tag: nav-bar {display:flex; justify-content: space-between;}
