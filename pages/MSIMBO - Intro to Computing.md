@@ -105,5 +105,7 @@
 - #ssh
 	- ssh-keygen -t rsa
 	- cat ~/.ssh/id_rsa.pub
+		- copy results
+	-
 	-
 	- clone ssh from github
