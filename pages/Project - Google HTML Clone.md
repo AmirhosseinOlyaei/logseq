@@ -1,0 +1,12 @@
+- Problem
+  • Design a HTML/CSS clone of google.com
+- Roadmap
+  TODO Create project folder
+  TODO Create base readme.md and index.html files
+  1 TODO Push project to Github repo called google-html
+  TODO Send @Dele link to Repo on slack
+  TODO Create new branch called feature/css-styling
+  TODO create empty style.css file
+  TODO Push project update to GitHub on new branch
+  TODO Send @Dele link to repo for the new branch on slack
+  | TODO Confirm I can fix from GitHub issues
