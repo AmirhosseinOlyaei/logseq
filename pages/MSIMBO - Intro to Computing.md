@@ -84,7 +84,7 @@
 	- type # id=right in html
 	- type #right in css file
 - !yt create a ... "search in youtube"
-- sponsorblock extension chrome
+- sponsorblock #extension chrome
 - DF tube #extension chrome
 - #CSS tag: nav-bar {display:flex; justify-content: space-between;}
 - #CSS tag: #right img, #right svg {width="20px"}
