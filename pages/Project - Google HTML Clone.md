@@ -1,6 +1,6 @@
 - Problem
 	- Design a HTML/CSS clone of google.com
-	-
+-
 - Roadmap
 	- TODO Create project folder
 	- TODO Create base readme.md and index.html files
@@ -11,4 +11,3 @@
 	- TODO Push project update to GitHub on new branch
 	- TODO Send @Dele link to repo for the new branch on slack
 	- TODO Confirm I can fix from GitHub issues
-	-
