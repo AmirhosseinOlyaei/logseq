@@ -18,7 +18,7 @@
 		- 3. Then we 'cd' into the 'msimbo-projects' folder
 		- 4. Create a folder called 'google-html'
 		-
-	- CLI Commands
+	- #CLI Commands
 		- mkdir - make a directory
 		- cd - changes into a directory
 		- ls - list
