@@ -79,11 +79,11 @@
 	- ctl + /
 	- /* Link Typography */
 	- /* Nav bar Layout */
-- <div id="nav-bar">
-	- <div>ddd</div>
-	- select tags, ctrl+shift+p, wrap with emmet, name a tag
-	- type # id=right in html
-	- type #right in css file
+	- <div id="nav-bar">
+		- <div>ddd</div>
+		- select tags, ctrl+shift+p, wrap with emmet, name a tag
+		- type # id=right in html
+		- type #right in css file
 - !yt create a ... #search in youtube
 - sponsorblock #extension chrome
 - DF tube #extension chrome
