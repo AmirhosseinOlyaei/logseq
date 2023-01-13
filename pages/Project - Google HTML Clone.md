@@ -2,12 +2,12 @@
 	- Design a HTML/CSS clone of google.com
 -
 - Roadmap
-	- TODO Create project folder
-	- TODO Create base readme.md and index.html files
-	- TODO Push project to Github repo called google-html
-	- TODO Send @Dele link to Repo on slack
-	- TODO Create new branch called feature/css-styling
-	- TODO create empty style.css file
-	- TODO Push project update to GitHub on new branch
+	- DONE Create project folder
+	- DONE Create base readme.md and index.html files
+	- DONE Push project to Github repo called google-html
+	- DONE Send @Dele link to Repo on slack
+	- DONE Create new branch called feature/css-styling
+	- DONE create empty style.css file
+	- DONE Push project update to GitHub on new branch
 	- TODO Send @Dele link to repo for the new branch on slack
 	- TODO Confirm I can fix from GitHub issues
