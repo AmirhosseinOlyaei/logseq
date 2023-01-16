@@ -10,4 +10,4 @@
 	- DONE create empty style.css file
 	- DONE Push project update to GitHub on new branch
 	- DONE Send @Dele link to repo for the new branch on slack
-	- TODO Confirm I can fix from GitHub issues
+	- DONE Confirm I can fix from GitHub issues
