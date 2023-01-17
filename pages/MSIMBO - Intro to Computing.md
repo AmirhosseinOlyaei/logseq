@@ -58,8 +58,10 @@
   #+END_TIP
 - ctrl+command+d
 - ! div+p
+-
 - #Git [reference](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
-- #Git merge
+	-
+	-
 	- git branch feature/css-styling
 	- git checkout feature/css-styling
 	- touch style.css
@@ -69,10 +71,14 @@
 	- git merge feature/css-styling
 	- git add . && git commit -m "added an external CSS file"
 	- git push -u origin main
+-
 - [SVG icons](https://heroicons.com/)
+-
 - In #search engine type "!gh"
 - !g chrome color picker #extension #search
+-
 - in #vscode drag css tab to the side of window to have side by side windows with html
+-
 - #CSS file comments:
 	- ctl + /
 	- /* Link Typography */
@@ -82,6 +88,7 @@
 		- select tags, ctrl+shift+p, wrap with emmet, name a tag
 		- type # id=right in html
 		- type #right in css file
+-
 - !yt create a ... #search in youtube
 - sponsorblock #extension chrome
 - DF tube #extension chrome
@@ -91,6 +98,7 @@
 - #Git [show current branch in iTerm2](https://ohmyz.sh/#install)
 - #Git comment as "fixes [#1](https://github.com/AmirhosseinOlyaei/google-html/issues/1) - adds the reset.css file"
 - #Git [closing-issues-via-commit-messages](https://github.blog/2013-01-22-closing-issues-via-commit-messages)
+-
 - #Git issue template
 - #search shareX download. Create a live gif link for windows
 - #CSS `#footer div:nth-child(2){display: flex;}`
@@ -101,5 +109,4 @@
 		- copy results
 	- #GitHub - Settings - #SSH keys tab - New SSH keys - paste here - copy after @ to the end of key - paste into the title area - Add SSH key
 	- clone SSH link
-- chrome #extension Fonts Ninja
--
+	- chrome #extension Fonts Ninja
