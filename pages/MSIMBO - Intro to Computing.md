@@ -60,6 +60,8 @@
 - ! div+p
 -
 - #Git [reference](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+	-
+	- #Git merge
 	- git branch feature/css-styling
 	- git checkout feature/css-styling
 	- touch style.css
