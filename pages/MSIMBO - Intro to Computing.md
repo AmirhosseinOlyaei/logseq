@@ -149,5 +149,5 @@
 	- get in your project folder
 	- `sudo yarn add -D tailwindcss`
 	- ![Screenshot 2023-01-18 at 1.42.45 PM.png](../assets/Screenshot_2023-01-18_at_1.42.45_PM_1674067437623_0.png)
-	-
+	- crea
 -
