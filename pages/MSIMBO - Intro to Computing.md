@@ -132,6 +132,7 @@
 		- #tailwindcss https://tailwindcss.com/docs/installation
 		- #foundation https://get.foundation/
 		-
+	- command+k => search box
 	-
 - mkdir xxx
 	- touch index.html style.css
