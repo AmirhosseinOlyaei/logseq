@@ -131,6 +131,6 @@
 - mkdir xxx
 	- touch index.html style.css
 	- ```#main + #article + <div id="main">
-	  #main + #article + <div id="main">article, footer
+	  #main + #article + <div id="footer">
 	  ```
 -
