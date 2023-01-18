@@ -149,7 +149,4 @@
 	- get in your project folder
 	- `sudo yarn add -D tailwindcss`
 	-
-	-
-	-
-	-
 -
