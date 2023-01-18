@@ -153,7 +153,8 @@
 		- type `node_modules` in .gitignore file
 			- ![Screenshot 2023-01-18 at 1.52.48 PM.png](../assets/Screenshot_2023-01-18_at_1.52.48_PM_1674067986226_0.png)
 	- `npx tailwindcss init`
-	- `mkdir `
+	- `mkdir src && cd src && touch input.css`
+	-
 	-
 	-
 -
