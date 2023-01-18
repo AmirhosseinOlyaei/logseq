@@ -135,7 +135,7 @@
 	- command+k => search box
 	- #codeeditor
 		- https://jsitor.com/
-			-
+			- extension, paste tailwindcss CDN url
 		- https://playcode.io/
 		- https://codepen.io/
 		-
