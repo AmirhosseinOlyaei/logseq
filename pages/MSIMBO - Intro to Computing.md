@@ -130,6 +130,7 @@
 		- #icon https://ant.design/components/icon
 		- #bootstrap https://getbootstrap.com/docs/5.3/getting-started/introduction/
 		- #tailwindcss https://tailwindcss.com/docs/installation
+		- #foundation https://get.foundation/
 		-
 	-
 - mkdir xxx
