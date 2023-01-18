@@ -124,7 +124,8 @@
 	- #npm modules
 	- css framework
 	- advanced framework
-	- design pattern that
+	- design pattern that is repeatable
+	-
 - mkdir xxx
 	- touch index.html style.css
 	- ```#main + #article + <div id="main">
