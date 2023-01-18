@@ -135,7 +135,10 @@
 	- command+k => search box
 	- #codeeditor
 		- https://jsitor.com/
+			-
 		- https://playcode.io/
+		- https://codepen.io/
+		-
 	-
 - mkdir xxx
 	- touch index.html style.css
