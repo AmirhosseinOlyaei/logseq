@@ -138,8 +138,6 @@
 			- extension, add library, paste tailwindcss CDN url
 		- https://playcode.io/
 		- https://codepen.io/
-		-
-	-
 - mkdir xxx
 	- touch index.html style.css
 	- ```#main + #article + <div id="main">
