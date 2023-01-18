@@ -125,7 +125,8 @@
 	- css framework
 	- advanced framework
 	- design pattern that is repeatable
-	- D. R. Y. => Do not
+	- D. R. Y. => Do not repeat yourself
+	-
 	-
 - mkdir xxx
 	- touch index.html style.css
