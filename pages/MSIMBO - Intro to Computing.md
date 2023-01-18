@@ -128,12 +128,10 @@
 	- D. R. Y. => Do not repeat yourself
 	- Documentation of a project
 	-
-	-
 - mkdir xxx
 	- touch index.html style.css
 	- ```#main + #article + <div id="main">
 	  #main + #article + <div id="footer">
 	  ```
 - #icon https://ant.design/components/icon
--
 -
