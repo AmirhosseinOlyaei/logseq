@@ -145,7 +145,9 @@
 	  ```
 - #icon https://ant.design/components/icon
 - #node.js download LTS
-	- `npm i -g yarn` or `npm install -global yarn`
+	- `sudo npm i -g yarn` or `npm install -global yarn`
+	-
+	-
 	-
 	-
 -
