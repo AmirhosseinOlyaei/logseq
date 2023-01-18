@@ -124,4 +124,6 @@
 	- #npm modules
 	- css framework
 	- advanced framework
+- mkdir xxx
+	- touch index.html style.css
 	-
