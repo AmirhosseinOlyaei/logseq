@@ -145,5 +145,5 @@
 	  ```
 - #icon https://ant.design/components/icon
 - #node.js download LTS
-	- yarn ad
+	- npm i -g yarn
 -
