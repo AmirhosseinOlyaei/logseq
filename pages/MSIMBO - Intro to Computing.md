@@ -126,6 +126,7 @@
 	- advanced framework
 	- design pattern that is repeatable
 	- D. R. Y. => Do not repeat yourself
+	- Documentation of a project
 	-
 	-
 - mkdir xxx
