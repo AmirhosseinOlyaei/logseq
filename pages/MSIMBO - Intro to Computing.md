@@ -145,8 +145,8 @@
 	  ```
 - #icon https://ant.design/components/icon
 -
-- #tailwindcss #CLI #node.js
-- #node.js download LTS
+- #tailwindcss #CLI #Node.js
+- #Node.js download LTS
 	- `sudo npm i -g yarn` or `npm install -global yarn`
 	- get in your project folder
 	- `sudo yarn add -D tailwindcss`
