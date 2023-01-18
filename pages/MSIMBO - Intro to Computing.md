@@ -133,9 +133,9 @@
 		- #foundation https://get.foundation/
 		-
 	- command+k => search box
-	-
-	- https://jsitor.com/
-	- https://playcode.io/
+	- #codeeditor
+		- https://jsitor.com/
+		- https://playcode.io/
 	-
 - mkdir xxx
 	- touch index.html style.css
