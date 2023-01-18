@@ -151,7 +151,7 @@
 	- ![Screenshot 2023-01-18 at 1.42.45 PM.png](../assets/Screenshot_2023-01-18_at_1.42.45_PM_1674067437623_0.png)
 	- create a file `touch .gitignore`
 		- type `node_modules` in .gitignore file
-			- ![Screenshot 2023-01-18 at 1.52.48 PM.png](../assets/Screenshot_2023-01-18_at_1.52.48_PM_1674067986226_0.png)
+		- ![Screenshot 2023-01-18 at 1.52.48 PM.png](../assets/Screenshot_2023-01-18_at_1.52.48_PM_1674067986226_0.png)
 	- `npx tailwindcss init`
 		- ![Screenshot 2023-01-18 at 1.56.09 PM.png](../assets/Screenshot_2023-01-18_at_1.56.09_PM_1674068205144_0.png)
 	- `mkdir src && cd src && touch input.css`
