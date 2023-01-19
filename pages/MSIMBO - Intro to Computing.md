@@ -190,4 +190,4 @@
 		-
 		-
 -
-- new project: `~/msimbo-projects/googlemini-calculator›`
+- new project: `~/msimbo-projects/googlemini-calculator›` convert to celsius
