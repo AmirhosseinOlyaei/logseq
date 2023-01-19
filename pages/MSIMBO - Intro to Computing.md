@@ -181,7 +181,9 @@
 		  git branch -M main
 		  git push -u origin main
 		  ```
-	- a
-	- Import
+	-
+	- Import class: `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
+		-
+		-
 -
 -
