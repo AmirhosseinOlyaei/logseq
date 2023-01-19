@@ -168,8 +168,5 @@
 			  git init
 			  git add .
 			  git commit -m "tailwind cli configuration"
-			  
-			  ```
-			- ```
 			  ```
 -
