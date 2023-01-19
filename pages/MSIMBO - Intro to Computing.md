@@ -161,20 +161,20 @@
 		- `mkdir src && cd src && touch input.css`
 			- ![Screenshot 2023-01-18 at 2.01.43 PM.png](../assets/Screenshot_2023-01-18_at_2.01.43_PM_1674070904883_0.png)
 		-
-		- push to #GitHub
-			- in #CLI , go up one folder (out of `src`),
-			- initialize the `project-tw` folder.
-			- ```
-			  cd ..
-			  ls -a
-			  git init
-			  git add .
-			  git commit -m "tailwind cli configuration"
-			  ```
-			- on GitHub, create a repository. `project-tailwind-config`
-			- ```
-			  git remote add origin git@github.com:AmirhosseinOlyaei/project-tailwind-config.git
-			  git branch -M main
-			  git push -u origin main
-			  ```
+	- push to #GitHub
+		- in #CLI , go up one folder (out of `src`),
+		- initialize the `project-tw` folder.
+		- ```
+		  cd ..
+		  ls -a
+		  git init
+		  git add .
+		  git commit -m "tailwind cli configuration"
+		  ```
+		- on GitHub, create a repository. `project-tailwind-config`
+		- ```
+		  git remote add origin git@github.com:AmirhosseinOlyaei/project-tailwind-config.git
+		  git branch -M main
+		  git push -u origin main
+		  ```
 -
