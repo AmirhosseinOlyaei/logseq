@@ -120,7 +120,7 @@
   ```
 - ```CSS
   ```
-- Moudlar #CSS
+- Modular #CSS
 	- #npm modules
 	- css framework
 	- advanced framework
