@@ -171,7 +171,10 @@
 			  git add .
 			  git commit -m "tailwind cli configuration"
 			  ```
-			- on GitHub, create a repository. **project-tailwind-config**
+			- on GitHub, create a repository. `project-tailwind-config`
 			- ```
+			  git remote add origin git@github.com:AmirhosseinOlyaei/project-tailwind-config.git
+			  git branch -M main
+			  git push -u origin main
 			  ```
 -
