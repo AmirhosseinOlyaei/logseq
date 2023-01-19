@@ -183,7 +183,7 @@
 		  ```
 	-
 	- Tailwind CLI build process:
-		- `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
+		- `npx tailwindcss -i ./src/tailwind.css -o ./dist/output.css --watch`
 		- in `index.html` head: `<link href="/dist/output.css" rel="stylesheet">`
 		-
 		-
