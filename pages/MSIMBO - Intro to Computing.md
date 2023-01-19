@@ -172,7 +172,6 @@
 		- initialize the `project-tw` folder.
 		- ```
 		  cd ..
-		  ls -a
 		  git init
 		  git add .
 		  git commit -m "tailwind cli configuration"
