@@ -182,7 +182,8 @@
 		  git push -u origin main
 		  ```
 	-
-	- `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
+	- Tailwind CLI build process:
+		- `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
 		-
 		-
 		-
