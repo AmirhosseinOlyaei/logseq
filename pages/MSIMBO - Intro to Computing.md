@@ -172,5 +172,6 @@
 			  git commit -m "tailwind cli configuration"
 			  ```
 			- on GitHub, create a repository. **project-tailwind-config**
-			-
+			- ```
+			  ```
 -
