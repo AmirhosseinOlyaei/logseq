@@ -170,6 +170,6 @@
 			  git commit -m "tailwind cli configuration"
 			  
 			  ```
-			- ![Screenshot 2023-01-19 at 12.02.27 AM.png](../assets/Screenshot_2023-01-19_at_12.02.27_AM_1674104571239_0.png)
-			-
+			- ```
+			  ```
 -
