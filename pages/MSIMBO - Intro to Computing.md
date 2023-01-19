@@ -154,7 +154,6 @@
 			- type `node_modules` in .gitignore file
 			- ![Screenshot 2023-01-18 at 1.52.48 PM.png](../assets/Screenshot_2023-01-18_at_1.52.48_PM_1674067986226_0.png)
 		- `npx tailwindcss init`
-		  collapsed:: true
 			- ![Screenshot 2023-01-18 at 1.56.09 PM.png](../assets/Screenshot_2023-01-18_at_1.56.09_PM_1674070834494_0.png)
 			- Configure your template paths. 
 			  Add the paths to all of your template files in your `tailwind.config.js` file.
