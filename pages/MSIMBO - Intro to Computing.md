@@ -162,7 +162,7 @@
 			- ![Screenshot 2023-01-18 at 2.01.43 PM.png](../assets/Screenshot_2023-01-18_at_2.01.43_PM_1674070904883_0.png)
 		-
 		- push to #GitHub
-			- in CLI, go up one folder (out of src), and initialize the project folder
+			- in CLI, go up one folder (out of src), and initialize the (project)folder.
 			- ```
 			  cd ..
 			  ls -a
