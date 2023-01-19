@@ -191,3 +191,4 @@
 		-
 -
 - new project: `~/msimbo-projects/googlemini-calculator›` convert to celsius
+- send the link of issues on sleck
