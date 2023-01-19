@@ -190,4 +190,4 @@
 		-
 		-
 -
--
+- new project: `~/msimbo-projects/googlemini-calculator›`
