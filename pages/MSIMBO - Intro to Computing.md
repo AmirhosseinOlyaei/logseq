@@ -144,23 +144,22 @@
 	  #main + #article + <div id="footer">
 	  ```
 -
-- #tailwindcss
-- #CLI
-- #Node.js download LTS
-	- `sudo npm i -g yarn` or `npm install -global yarn`
-	- get in your project folder
-	- `sudo yarn add -D tailwindcss`
-	- ![Screenshot 2023-01-18 at 1.42.45 PM.png](../assets/Screenshot_2023-01-18_at_1.42.45_PM_1674067437623_0.png)
-	- create a file `touch .gitignore`
-		- type `node_modules` in .gitignore file
-		- ![Screenshot 2023-01-18 at 1.52.48 PM.png](../assets/Screenshot_2023-01-18_at_1.52.48_PM_1674067986226_0.png)
-	- `npx tailwindcss init`
-		- ![Screenshot 2023-01-18 at 1.56.09 PM.png](../assets/Screenshot_2023-01-18_at_1.56.09_PM_1674070834494_0.png)
-		- Configure your template paths. 
-		  Add the paths to all of your template files in your `tailwind.config.js` file.
-		- ![Screenshot 2023-01-18 at 2.00.01 PM.png](../assets/Screenshot_2023-01-18_at_2.00.01_PM_1674068425423_0.png)
-	- `mkdir src && cd src && touch input.css`
-		- ![Screenshot 2023-01-18 at 2.01.43 PM.png](../assets/Screenshot_2023-01-18_at_2.01.43_PM_1674070904883_0.png)
-	-
-	-
+- #tailwindcss #CLI
+	- #Node.js download LTS
+		- `sudo npm i -g yarn` or `npm install -global yarn`
+		- get in your project folder
+		- `sudo yarn add -D tailwindcss`
+		- ![Screenshot 2023-01-18 at 1.42.45 PM.png](../assets/Screenshot_2023-01-18_at_1.42.45_PM_1674067437623_0.png)
+		- create a file `touch .gitignore`
+			- type `node_modules` in .gitignore file
+			- ![Screenshot 2023-01-18 at 1.52.48 PM.png](../assets/Screenshot_2023-01-18_at_1.52.48_PM_1674067986226_0.png)
+		- `npx tailwindcss init`
+			- ![Screenshot 2023-01-18 at 1.56.09 PM.png](../assets/Screenshot_2023-01-18_at_1.56.09_PM_1674070834494_0.png)
+			- Configure your template paths. 
+			  Add the paths to all of your template files in your `tailwind.config.js` file.
+			- ![Screenshot 2023-01-18 at 2.00.01 PM.png](../assets/Screenshot_2023-01-18_at_2.00.01_PM_1674068425423_0.png)
+		- `mkdir src && cd src && touch input.css`
+			- ![Screenshot 2023-01-18 at 2.01.43 PM.png](../assets/Screenshot_2023-01-18_at_2.01.43_PM_1674070904883_0.png)
+		-
+		-
 -
