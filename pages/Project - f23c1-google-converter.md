@@ -14,7 +14,7 @@
 						  const userInput = 24.5;
 						  ```
 						- `var` makes variables global
-						-
+						- `const` variables, on the other hand, are used to declare variables that cannot be reassigned after they are initialised.
 					- >2. String
 						- ```js
 						  const appName = "Google Converter";
