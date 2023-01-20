@@ -142,7 +142,6 @@
 -
 - #tailwindcss #CLI #CSS
   id:: 63c8c738-c03d-4c75-b387-0c4195a4a72c
-  collapsed:: true
 	- #Node.js download LTS
 		- `sudo npm i -g yarn` or `npm install -global yarn`
 		- get in your project folder
