@@ -211,19 +211,21 @@
 		  content: ["./*.html"],
 		  ```
 	- in `package.json`
-	- ```js
-	  {
-	    "devDependencies": {
-	      "live-server": "git+https://github.com/tapio/live-server.git#ad22544",
-	      "tailwindcss": "^3.2.4"
-	    },
-	    "scripts": {
-	      "watch:css": "npx tailwindcss -i ./src/tailwind.css -o ./css/style.css --watch",
-	      "serve:dev": "live-server ."
-	    }
-	  }
-	  ```
-	-
+		- ```js
+		  {
+		    "devDependencies": {
+		      "live-server": "git+https://github.com/tapio/live-server.git#ad22544",
+		      "tailwindcss": "^3.2.4"
+		    },
+		    "scripts": {
+		      "watch:css": "npx tailwindcss -i ./src/tailwind.css -o ./css/style.css --watch",
+		      "serve:dev": "live-server ."
+		    }
+		  }
+		  ```
+	- in `index.html`
+		- ```
+		  ```
 -
 - send the link of #issues on sleck
 -
