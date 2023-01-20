@@ -13,7 +13,7 @@
 						  const userInput = 23;
 						  const userInput = 24.5;
 						  ```
-						- var makes variable global
+						- `var` makes variables global
 						-
 					- >2. String
 						- ```js
