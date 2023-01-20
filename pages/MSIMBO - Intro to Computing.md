@@ -162,7 +162,7 @@
 			- Configure your template paths. 
 			  Add the paths to all of your template files in your `tailwind.config.js` file.
 			- ![Screenshot 2023-01-18 at 2.00.01 PM.png](../assets/Screenshot_2023-01-18_at_2.00.01_PM_1674068425423_0.png)
-		- `mkdir src && cd src && touch input.css`
+		- `mkdir src && cd src && touch input.css` or `tailwind.css`
 			- ![Screenshot 2023-01-18 at 2.01.43 PM.png](../assets/Screenshot_2023-01-18_at_2.01.43_PM_1674070904883_0.png)
 		-
 	- push to #GitHub
@@ -183,7 +183,7 @@
 		  ```
 	-
 	- Tailwind CLI build process:
-		- `mkdir src && touch src/tailwind. css`
+		- `mkdir src && touch src/tailwind.css`
 		- `npx tailwindcss -i ./src/tailwind.css -o ./css/styles.css --watch`
 		- in `index.html` head: `<link href="/css/styles.css" rel="stylesheet">`
 		-
