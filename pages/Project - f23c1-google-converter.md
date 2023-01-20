@@ -16,7 +16,7 @@
 					- >2. String
 						- ```js
 						  const appName = "Google Converter";
-						  const appName = "0.0.1";
+						  const appVersion = "0.0.1";
 						  ```
 					- >3. Boolean
 						- ```js
