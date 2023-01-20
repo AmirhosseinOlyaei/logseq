@@ -73,11 +73,10 @@
 	- git push -u origin main
 -
 - #SVG #icons https://heroicons.com/
+-
 - In #search engine type "!gh"
 - !g chrome color picker #extension #search
--
-- in #vscode drag css tab to the side of window to have side by side windows with html
--
+- in #vscode drag #css tab to the side of window to have side by side windows with html
 - #CSS file comments:
 	- ctl + /
 	- /* Link Typography */
