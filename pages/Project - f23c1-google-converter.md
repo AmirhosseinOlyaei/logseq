@@ -9,7 +9,8 @@
 			- >1. Get data from the user
 				- Data type
 					- >1. Number
-						-
+						- ```js
+						  ```
 			-
 	- 2
 -
