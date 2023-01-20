@@ -56,10 +56,13 @@
 -
 - [[Project - Google HTML Clone]]
 -
+- [[HTML]] #shortcuts
+	- input+btm+btn
+	- div*3
+	- ctrl+command+d
+	- ! div+p
 -
 - #Git [reference](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
-	-
-	-
 	- git branch feature/css-styling
 	- git checkout feature/css-styling
 	- touch style.css
