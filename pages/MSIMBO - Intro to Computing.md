@@ -48,18 +48,14 @@
 			  B
 			  ```
 			- The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
-			-
+			- #+BEGIN_TIP
+			  
+			  #+END_TIP
 			-
 			-
 -
 - [[Project - Google HTML Clone]]
-- input+btm+btn
-- div*3 
-  #+BEGIN_TIP
-  
-  #+END_TIP
-- ctrl+command+d
-- ! div+p
+-
 -
 - #Git [reference](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 	-
