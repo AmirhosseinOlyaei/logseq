@@ -23,6 +23,8 @@
 						- ```js
 						  const isANewApp = true;
 						  ```
-			- >****
+			- >**Convert to F**
+				- >(23C x 9.5) + 32 = 73.4F
+				-
 	- 2
 -
