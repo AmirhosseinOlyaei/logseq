@@ -193,7 +193,7 @@
 		-
 -
 - new project: Facebook with tailwind
-- project f23c1-google-converter**: `~/msimbo-projects/googlemini-calculator›` convert to celsius
+- [[project f23c1-google-converter]]: `~/msimbo-projects/googlemini-calculator›` convert to celsius
 	- ## Summary
 	  
 	  A walkthrough of Javascript ideas while building Google's converter.
