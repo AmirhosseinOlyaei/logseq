@@ -15,7 +15,9 @@
 						  ```
 					- >2. String
 						- ```js
+						  const appName = "Google Converter";
 						  ```
+					-
 			-
 	- 2
 -
