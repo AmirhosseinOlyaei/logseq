@@ -32,4 +32,41 @@
 		- Your public Vercel link (test that you can visit this link in an incognito window)
 -
 - **Step 1**: Craft your plan in GitHub issues, send me that link in slack.
+	- Open your terminal and `cd` into your **msimbo-projects** folder
+	- Clone this repo, `git clone git@github.com:msimbo/f23c1-google-converter.git` #Git
+	- `cd` into the [new] folder, **f23c1-google-converter**
+	- Run: `yarn` to build the packages this project depends on. #yarn
+	- Run `yarn serve:dev` to preview the project
+	- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
+	- in `.gitignore`
+		- ```git
+		  node_modules
+		  ```
+	- in `tailwind.config.js`
+		- ```js
+		  content: ["./*.html"],
+		  ```
+	- in `package.json`
+		- ```js
+		  {
+		    "devDependencies": {
+		      "live-server": "git+https://github.com/tapio/live-server.git#ad22544",
+		      "tailwindcss": "^3.2.4"
+		    },
+		    "scripts": {
+		      "watch:css": "npx tailwindcss -i ./src/tailwind.css -o ./css/style.css --watch",
+		      "serve:dev": "live-server ."
+		    }
+		  }
+		  ```
+	- in `index.html`
+		- ```html
+		      <link rel="stylesheet" href="css/style.css">
+		  ```
+	- in `src/tailwind.css`
+		- ```css
+		  @tailwind base;
+		  @tailwind components;
+		  @tailwind utilities;
+		  ```
 	-
