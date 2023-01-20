@@ -62,6 +62,18 @@
 	  document.getElementById("demo").innerHTML = "Formula: (" + userInput + boldText + " - 32) × 5 / 9 = " + results + "<b>°C</b>";
 	  ```
 	- ```js
+	  const fehrenheit = "°F";
+	  const boldFehrenheit = fehrenheit.bold();
+	  const userInput = prompt(fehrenheit);
+	    const results = (userInput - 32) * (5 / 9).toFixed(2);
+	    console.log(
+	      userInput + "°F = " + results + "°C"
+	    );
+	    console.log(
+	      "Formula: (" + userInput + "°F - 32) × 5 / 9 = " + results + "°C"
+	    );
+	  document.getElementById("demo").innerHTML = "<span style='background-color: orange;'>Formila</span> (" + userInput + boldFehrenheit + " - 32) × 5 / 9 = " + results + "<b>°C</b>";
+	  
 	  ```
 	- Making decisions
 		- true or false
