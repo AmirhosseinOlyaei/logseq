@@ -208,6 +208,7 @@
 	- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
 	- in `.gitignore`
 		- ```git
+		  node_modules
 		  ```
 	- in `tailwind.config.js`
 		- ```js
@@ -230,6 +231,7 @@
 		- ```html
 		      <link rel="stylesheet" href="css/style.css">
 		  ```
+	- in `src/tailwin` folder
 -
 - send the link of #issues on sleck
 -
