@@ -26,6 +26,7 @@
 						- ```js
 						  const isANewApp = true;
 						  ```
+					- **Making decisions:**
 					- >4. Conditional Operators; `===`, `==`, `=`
 					- >5. Conditional statements;
 						- ```js
