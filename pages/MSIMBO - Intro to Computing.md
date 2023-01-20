@@ -74,7 +74,7 @@
 -
 - #SVG #icons https://heroicons.com/
 -
-- #search #extension
+- #search & #extension
 	- In #search engine type "!gh"
 	- !g chrome color picker #extension
 	- !yt create a ... #search in youtube
@@ -89,8 +89,6 @@
 	- select tags, ctrl+shift+p, wrap with emmet, name a tag
 		- type #id =right in html
 		- type #right in css file
--
--
 - #CSS tag: nav-bar {display:flex; justify-content: space-between;}
 - #CSS tag: #right img, #right svg {width="20px"}
 - #CSS tag: nav-bar #right {display: flex; justify-content: space-evenly;}
