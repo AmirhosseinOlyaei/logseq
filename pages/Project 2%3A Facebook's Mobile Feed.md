@@ -33,6 +33,9 @@
 -
 - **Step 1**: Craft your plan in GitHub issues, send me that link in slack.
 	- logseq://graph/logseq?block-id=63c8c738-c03d-4c75-b387-0c4195a4a72c
+		- issue 1: Download Node.js LTS.
+			- `sudo npm i -g yarn` or `npm install -global yarn`
+		-
 	- {{embed ((63c8c738-c03d-4c75-b387-0c4195a4a72c))}}
 	-
 	- Open your terminal and `cd` into your **msimbo-projects** folder
