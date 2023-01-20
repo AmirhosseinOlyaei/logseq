@@ -29,7 +29,13 @@
 					- >4. Conditional Operators; `===`, `==`, `=`
 					- >5. Conditional statements;
 						- ```js
-						  
+						  const isNewApp = true;
+						  if (typeof (answer) === "number"){
+						  	console.log("This is your conversation");
+						  }
+						  if(typeof(answer) === "string"){
+						  	console.log("")
+						  }
 						  ```
 			- >**Convert to F**
 				- ```txt
