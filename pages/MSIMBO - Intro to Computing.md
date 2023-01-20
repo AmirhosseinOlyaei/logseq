@@ -80,6 +80,7 @@
 	- !yt create a ... #search in youtube
 	- sponsorblock #extension chrome
 	- DF tube #extension chrome
+	- #search shareX download. Create a live gif link for windows
 -
 - in #vscode drag #css tab to the side of window to have side by side windows with html
 - #CSS file comments:
@@ -90,7 +91,6 @@
 		- type #id =right in html
 		- type #right in css file
 -
--
 - #CSS tag: nav-bar {display:flex; justify-content: space-between;}
 - #CSS tag: #right img, #right svg {width="20px"}
 - #CSS tag: nav-bar #right {display: flex; justify-content: space-evenly;}
@@ -99,7 +99,6 @@
 - #Git [closing-issues-via-commit-messages](https://github.blog/2013-01-22-closing-issues-via-commit-messages)
 -
 - #Git issue template
-- #search shareX download. Create a live gif link for windows
 - #CSS `#footer div:nth-child(2){display: flex;}`
 - #CSS import google.font into css file. define font families and size in rem
 - #ssh authentication
