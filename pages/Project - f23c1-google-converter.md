@@ -6,7 +6,9 @@
 		  3. [?] What data from the user
 		  4. [?] What sort of formula?
 		  5. Show the user the result
-		  6.
+		  
+		  1. Get data from the user
+		  2.
 			-
 	- 2
 -
