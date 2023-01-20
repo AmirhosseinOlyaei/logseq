@@ -108,15 +108,15 @@
 	- clone SSH link
 	- chrome #extension Fonts Ninja
 -
-- emmet
-- ```
-  html
-  ```
-- ```html
-  html code
-  ```
-- ```CSS
-  ```
+- #emmet
+	- ```
+	  html
+	  ```
+	- ```html
+	  html code
+	  ```
+	- ```CSS
+	  ```
 - Modular [[CSS]]
 	- #npm modules
 	- css framework
