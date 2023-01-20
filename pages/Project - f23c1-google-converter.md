@@ -25,8 +25,9 @@
 						- ```js
 						  const isANewApp = true;
 						  ```
-						- Making decisions; true or false
-						- Conditional Operators
+						-
+						- Conditional Operators; `===`, `==`, `=`
+						- Conditional statements;
 			- >**Convert to F**
 				- ```txt
 				  (23C x 9.5) + 32 = 73.4F
