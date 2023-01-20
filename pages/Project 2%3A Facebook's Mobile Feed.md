@@ -34,7 +34,8 @@
 - **Step 1**: Craft your plan in GitHub issues, send me that link in slack.
 	- logseq://graph/logseq?block-id=63c8c738-c03d-4c75-b387-0c4195a4a72c
 		- issue : Download Node.js LTS.
-		- issue : install yarn
+			- https://nodejs.org/en/
+		- issue : Installing yarn
 			- `sudo npm i -g yarn` or `npm install -global yarn`
 		- issue : Making facebook-tailwind project directories
 			- ```bash
