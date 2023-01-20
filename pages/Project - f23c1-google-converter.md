@@ -8,7 +8,8 @@
 		  5. Show the user the result
 			- >1. Get data from the user
 				- Data type
-					-
+					- >1. Number
+						-
 			-
 	- 2
 -
