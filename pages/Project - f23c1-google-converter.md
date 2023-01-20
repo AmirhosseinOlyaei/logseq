@@ -25,6 +25,8 @@
 						- ```js
 						  const isANewApp = true;
 						  ```
+						- Making decisions; true or false
+						- Conditional Operators
 			- >**Convert to F**
 				- ```txt
 				  (23C x 9.5) + 32 = 73.4F
