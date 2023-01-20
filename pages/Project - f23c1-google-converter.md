@@ -1,6 +1,8 @@
 - **f23c1-google-converter**
 - Algorithms:
 	- Design a set of instructions to solve a problem
-	- 1. Get data from the user
-	  2. When I get the data, to
+		- 1. Get data from the user
+		  2. When I get the data, to convert to F
+		  2a. [?] What data from the user?
+	- 2
 -
