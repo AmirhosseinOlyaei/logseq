@@ -201,7 +201,7 @@
 	- Open your terminal and `cd` into your **msimbo-projects** folder
 	- Clone this repo, `git clone git@github.com:msimbo/f23c1-google-converter.git` #Git
 	- `cd` into the [new] folder, **f23c1-google-converter**
-	- Run: `yarn` to build the packages this project depends on.
+	- Run: `yarn` to build the packages this project depends on. #yarn
 	- Run `yarn serve:dev` to preview the project
 	- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
 	- in `.gitignore`
