@@ -74,8 +74,11 @@
 -
 - #SVG #icons https://heroicons.com/
 -
-- In #search engine type "!gh"
-- !g chrome color picker #extension #search
+- #search
+	- In #search engine type "!gh"
+	- !g chrome color picker #extension
+	- !yt create a ... #search in youtube
+-
 - in #vscode drag #css tab to the side of window to have side by side windows with html
 - #CSS file comments:
 	- ctl + /
@@ -85,7 +88,7 @@
 		- type #id =right in html
 		- type #right in css file
 -
-- !yt create a ... #search in youtube
+-
 - sponsorblock #extension chrome
 - DF tube #extension chrome
 - #CSS tag: nav-bar {display:flex; justify-content: space-between;}
