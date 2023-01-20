@@ -10,6 +10,11 @@
 				- Data type
 					- >1. Number
 						- ```js
+						  const userInput = 23;
+						  const userInput = 24.5;
+						  ```
+					- >2. String
+						- ```js
 						  ```
 			-
 	- 2
