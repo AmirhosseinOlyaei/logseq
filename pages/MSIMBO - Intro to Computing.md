@@ -129,7 +129,7 @@
 		- #tailwindcss https://tailwindcss.com/docs/installation
 		- #foundation https://get.foundation/
 		-
-	- command+k => search box
+	- command+k => search box in #vscode
 	- #codeeditor
 		- https://jsitor.com/
 			- extension, add library, paste tailwindcss CDN url
@@ -164,7 +164,7 @@
 		- `mkdir src && cd src && touch input.css` or `tailwind.css`
 			- ![Screenshot 2023-01-18 at 2.01.43 PM.png](../assets/Screenshot_2023-01-18_at_2.01.43_PM_1674070904883_0.png)
 		-
-	- push to #GitHub
+	- push to #GitHub #Git
 		- in #CLI , go up one folder (out of `src`),
 		- initialize the `project-tw` folder.
 		- ```
