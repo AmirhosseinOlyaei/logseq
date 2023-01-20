@@ -231,7 +231,13 @@
 		- ```html
 		      <link rel="stylesheet" href="css/style.css">
 		  ```
-	- in `src/tailwin` folder
+	- in `src/tailwind.css`
+		- ```css
+		  @tailwind base;
+		  @tailwind components;
+		  @tailwind utilities;
+		  ```
+	-
 -
 - send the link of #issues on sleck
 -
