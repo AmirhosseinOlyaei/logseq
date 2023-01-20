@@ -13,6 +13,8 @@
 						  const userInput = 23;
 						  const userInput = 24.5;
 						  ```
+						- var makes variable global
+						-
 					- >2. String
 						- ```js
 						  const appName = "Google Converter";
@@ -33,6 +35,11 @@
 				  ```
 			-
 	- ```js
+	   const userInput = 40;
+	   const results = (userInput - 32) * (5 / 9);
+	   console.log(
+	     userInput + "°F = " + results + "°C"
+	   );
 	  ```
 	- ```js
 	  let fahrenheit = prompt("Enter a temperature in Fahrenheit:");
