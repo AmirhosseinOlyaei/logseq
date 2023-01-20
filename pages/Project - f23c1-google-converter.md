@@ -74,7 +74,8 @@
 	  console.log(
 	    "Formula: (" + userInput + "°F - 32) × 5 / 9 = " + roundedResults + "°C"
 	  );
-	  document.getElementById("demo").innerHTML = "<span style='background-color: orange;'>Formila</span> (" + userInput + boldFehrenheit + " - 32) × 5 / 9 = " + roundedResults + "<b>°C</b>";
+	  document.getElementById("demo").innerHTML = 
+	  `<span style='background-color: orange;'>Formula</span> ( ${userInput}${boldFehrenheit} - 32) × 5 / 9 = ${roundedResults}<b>°C</b>`;
 	  ```
 	-
 		-
