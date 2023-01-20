@@ -188,6 +188,7 @@
 		- in `index.html` head: `<link href="/css/styles.css" rel="stylesheet">`
 		-
 -
+- new project: Facebook with tail
 - new project: `~/msimbo-projects/googlemini-calculator›` convert to celsius
 	- `cd` into the [new] folder, **f23c1-google-converter**
 	- Run: `yarn` to build the packages this project depends on.
