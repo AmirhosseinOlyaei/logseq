@@ -58,6 +58,9 @@
 	  let celsius = (fahrenheit - 32) * (5 / 9);
 	  console.log(fahrenheit + " degrees Fahrenheit is equal to " + celsius + " degrees Celsius.");
 	  ```
+	- ```js
+	  document.getElementById("demo").innerHTML = "Formula: (" + userInput + boldText + " - 32) × 5 / 9 = " + results + "<b>°C</b>";
+	  ```
 	- Making decisions
 		- true or false
 - https://www.jetbrains.com/lp/devecosystem-2022/
