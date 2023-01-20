@@ -84,7 +84,7 @@
 	- /* Link Typography */
 	- /* Nav bar Layout */
 	- select tags, ctrl+shift+p, wrap with emmet, name a tag
-		- type # id=right in html
+		- type #id =right in html
 		- type #right in css file
 -
 - !yt create a ... #search in youtube
