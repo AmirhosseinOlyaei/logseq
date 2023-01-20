@@ -52,9 +52,7 @@
 			-
 			-
 -
--
--
--
+- [[Project - Google HTML Clone]]
 - input+btm+btn
 - div*3 
   #+BEGIN_TIP
