@@ -72,7 +72,7 @@
 	- git add . && git commit -m "added an external CSS file"
 	- git push -u origin main
 -
-- [SVG icons](https://heroicons.com/)
+- [SVG icons](https://heroicons.com/) https://heroicons.com/
 -
 - In #search engine type "!gh"
 - !g chrome color picker #extension #search
