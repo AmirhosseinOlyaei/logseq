@@ -31,4 +31,5 @@
 		- Your public GitHub link (test that you can visit this link in an incognito window)
 		- Your public Vercel link (test that you can visit this link in an incognito window)
 -
--
+- **Step 1**: Craft your plan in GitHub issues, send me that link in slack.
+	-
