@@ -1,14 +1,14 @@
 - **f23c1-google-converter**
 - Algorithms:
 	- Design a set of instructions to solve a problem
-		- 1. Get data from the user
+		- >1. Get data from the user
 		  2. When I get the data, to convert to F
 		  3. [?] What data from the user
 		  4. [?] What sort of formula?
 		  5. Show the user the result
-		  
-		  1. Get data from the user
-		  2.
+			- >1. Get data from the user
+				- Data type
+					-
 			-
 	- 2
 -
