@@ -206,6 +206,8 @@
 	- Run: `yarn` to build the packages this project depends on.
 	- Run `yarn serve:dev` to preview the project
 	- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
+	- in `tailwind.config.js`: `content: ["./*.html"],`
 	-
+-
 - send the link of #issues on sleck
 -
