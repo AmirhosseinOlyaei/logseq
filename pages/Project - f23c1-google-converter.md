@@ -6,7 +6,7 @@
 		  3. [?] What data from the user
 		  4. [?] What sort of formula?
 		  5. Show the user the result
-			- >1. Get data from the user
+			- > **Get data from the user**
 				- Data type
 					- >1. Number
 						- ```js
@@ -17,6 +17,7 @@
 						- ```js
 						  const appName = "Google Converter";
 						  const appVersion = "0.0.1";
+						  const isANewApp = "false";
 						  ```
 					- >3. Boolean
 						- ```js
