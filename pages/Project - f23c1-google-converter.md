@@ -33,6 +33,9 @@
 				  ```
 			-
 	- ```js
+	  let fahrenheit = prompt("Enter a temperature in Fahrenheit:");
+	  let celsius = (fahrenheit - 32) * (5 / 9);
+	  console.log(fahrenheit + " degrees Fahrenheit is equal to " + celsius + " degrees Celsius.");
 	  ```
 -
 - https://www.jetbrains.com/lp/devecosystem-2022/
