@@ -190,7 +190,7 @@
 		- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script. a new #bash tab in #vscode. rename tabs
 -
 - [[project - Facebook with tailwind]]
-- [[Project - f23c1-google-converter]]: `~/msimbo-projects/googlemini-calculator›` convert to celsius
+- [[Project - f23c1-google-converter]]: `~/msimbo-projects/googlemini-calculator›` convert to celsius. Dele notes:
 	- ## Summary
 	  
 	  A walkthrough of Javascript ideas while building Google's converter.
