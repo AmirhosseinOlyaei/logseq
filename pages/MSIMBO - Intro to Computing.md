@@ -188,8 +188,16 @@
 		- in `index.html` head: `<link href="/css/styles.css" rel="stylesheet">`
 		-
 -
-- new project: Facebook with tail
+- new project: Facebook with tailwind
 - new project: `~/msimbo-projects/googlemini-calculator›` convert to celsius
+	- ## Summary
+	  
+	  A walkthrough of Javascript ideas while building Google's converter.
+	  
+	  ![Google Converter Reference](https://i.imgur.com/9DtKDMO.png)
+	- ## Quick Start
+	- Open your terminal and `cd` into your **msimbo-projects** folder
+	- Clone this repo, `git clone git@github.com:msimbo/f23c1-google-converter.git`
 	- `cd` into the [new] folder, **f23c1-google-converter**
 	- Run: `yarn` to build the packages this project depends on.
 	- Run `yarn serve:dev` to preview the project
