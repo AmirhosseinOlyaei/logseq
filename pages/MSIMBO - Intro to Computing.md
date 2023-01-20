@@ -199,7 +199,7 @@
 	  ![Google Converter Reference](https://i.imgur.com/9DtKDMO.png)
 	- ## Quick Start
 	- Open your terminal and `cd` into your **msimbo-projects** folder
-	- Clone this repo, `git clone git@github.com:msimbo/f23c1-google-converter.git`
+	- Clone this repo, `git clone git@github.com:msimbo/f23c1-google-converter.git` #Git
 	- `cd` into the [new] folder, **f23c1-google-converter**
 	- Run: `yarn` to build the packages this project depends on.
 	- Run `yarn serve:dev` to preview the project
