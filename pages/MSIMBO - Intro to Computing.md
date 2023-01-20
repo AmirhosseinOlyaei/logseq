@@ -97,7 +97,6 @@
 - #Git [show current branch in iTerm2](https://ohmyz.sh/#install)
 - #Git comment as "fixes [#1](https://github.com/AmirhosseinOlyaei/google-html/issues/1) - adds the reset.css file"
 - #Git [closing-issues-via-commit-messages](https://github.blog/2013-01-22-closing-issues-via-commit-messages)
--
 - #Git issue template
 - #CSS `#footer div:nth-child(2){display: flex;}`
 - #CSS import google.font into css file. define font families and size in rem
