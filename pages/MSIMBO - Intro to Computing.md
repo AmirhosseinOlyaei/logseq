@@ -140,9 +140,9 @@
 	  #main + #article + <div id="footer">
 	  ```
 -
-- #tailwindcss #CLI #CSS
+- issue 1:
   id:: 63c8c738-c03d-4c75-b387-0c4195a4a72c
-	- #Node.js download LTS
+	-
 		- `sudo npm i -g yarn` or `npm install -global yarn`
 		- get in your project folder
 			- ```
