@@ -207,7 +207,19 @@
 	- Run `yarn serve:dev` to preview the project
 	- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
 	- in `tailwind.config.js`: `content: ["./*.html"],`
-	-
+	- in `package.json`
+	- ```
+	  {
+	    "devDependencies": {
+	      "live-server": "git+https://github.com/tapio/live-server.git#ad22544",
+	      "tailwindcss": "^3.2.4"
+	    },
+	    "scripts": {
+	      "watch:css": "npx tailwindcss -i ./src/tailwind.css -o ./css/style.css --watch",
+	      "serve:dev": "live-server ."
+	    }
+	  }
+	  ```
 -
 - send the link of #issues on sleck
 -
