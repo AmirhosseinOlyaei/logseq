@@ -187,8 +187,8 @@
 		- `npx tailwindcss -i ./src/tailwind.css -o ./css/styles.css --watch`
 		- in `index.html` head: `<link href="/css/styles.css" rel="stylesheet">`
 		- `cd` into the [new] folder, **project-tw**
-		- Run: `yarn` to build the packages this project depends on. in a new #bash in #vscode
-		- Run `yarn serve:dev` to preview the project
+		- Run: `yarn` to build the packages this project depends on. a new #bash tab in #vscode
+		- Run `yarn serve:dev` to preview the project. a new #bash tab in #vscode
 		- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
 		-
 -
