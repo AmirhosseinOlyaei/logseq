@@ -61,6 +61,7 @@
 	- div*3
 	- ctrl+command+d
 	- ! div+p
+	- select tags, ctrl+shift+p, wrap with emmet, name a tag
 -
 - #Git [reference](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 	- git branch feature/css-styling
@@ -88,7 +89,6 @@
 	- ctl + /
 	- /* Link Typography */
 	- /* Nav bar Layout */
-	- select tags, ctrl+shift+p, wrap with emmet, name a tag
 -
 - #CSS tag: nav-bar {display:flex; justify-content: space-between;}
 - #CSS tag: #right img, #right svg {width="20px"}
