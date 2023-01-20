@@ -20,12 +20,13 @@
 						  const appName = "Google Converter";
 						  const appVersion = "0.0.1";
 						  const isANewApp = "false";
+						  typeof (typeof (answer));
 						  ```
 					- >3. Boolean
 						- ```js
 						  const isANewApp = true;
 						  ```
-						-
+					- >4
 						- Conditional Operators; `===`, `==`, `=`
 						- Conditional statements;
 			- >**Convert to F**
