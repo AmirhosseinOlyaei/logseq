@@ -183,7 +183,7 @@
 		  ```
 	-
 	- Tailwind CLI build process:
-		- `mkdir src && touch src/tailwind.css` already created this file
+		- `mkdir src && touch src/tailwind.css`
 		- `npx tailwindcss -i ./src/tailwind.css -o ./css/styles.css --watch`
 		- in `index.html` head: `<link href="/css/styles.css" rel="stylesheet">`
 		-
