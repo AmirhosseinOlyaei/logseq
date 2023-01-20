@@ -187,7 +187,9 @@
 		- `npx tailwindcss -i ./src/tailwind.css -o ./css/styles.css --watch`
 		- in `index.html` head: `<link href="/css/styles.css" rel="stylesheet">`
 		-
-		-
+		- Run: `yarn` to build the packages this project depends on.
+		- Run `yarn serve:dev` to preview the project
+		- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
 		-
 -
 - new project: `~/msimbo-projects/googlemini-calculator›` convert to celsius
