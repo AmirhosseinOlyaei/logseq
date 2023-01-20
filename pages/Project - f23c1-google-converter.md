@@ -64,20 +64,19 @@
 	- ```js
 	  const fehrenheit = "°F";
 	  const boldFehrenheit = fehrenheit.bold();
-	  const userInput = 50; //prompt("Enter a temperature in " + fehrenheit);
-	  const results = (userInput - 32) * (5 / 9);
+	  const userInput = 74; //prompt("Enter a temperature in " + fehrenheit);
+	  const results = (userInput - 32) * (5 / 9); //.toFixed(2);
 	  const roundedResults = Math.round(results*100)/100;
 	  console.log(
 	    userInput + "°F = " + roundedResults + "°C"
 	  );
 	  console.log(
-	    "Formula: (" + userInput + "°F - 32) × 5 / 9 = " + results + "°C"
+	    "Formula: (" + userInput + "°F - 32) × 5 / 9 = " + roundedResults + "°C"
 	  );
-	  document.getElementById("demo").innerHTML = "<span style='background-color: orange;'>Formila</span> (" + userInput + boldFehrenheit + " - 32) × 5 / 9 = " + results + "<b>°C</b>";
-	  
+	  document.getElementById("demo").innerHTML = "<span style='background-color: orange;'>Formila</span> (" + userInput + boldFehrenheit + " - 32) × 5 / 9 = " + roundedResults + "<b>°C</b>";
 	  ```
-	- Making decisions
-		- true or false
+	-
+		-
 - https://www.jetbrains.com/lp/devecosystem-2022/
 - Here’s the starting point to solve the Google converter problem: [https://jsitor.com/Qg9XumxV2L](https://jsitor.com/Qg9XumxV2L)
 -
