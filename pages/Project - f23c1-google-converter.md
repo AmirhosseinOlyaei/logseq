@@ -17,7 +17,9 @@
 						- ```js
 						  const appName = "Google Converter";
 						  ```
-					-
+					- >3. Boolean
+						- ```js
+						  ```
 			-
 	- 2
 -
