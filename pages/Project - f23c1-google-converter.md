@@ -20,6 +20,7 @@
 						  ```
 					- >3. Boolean
 						- ```js
+						  const appName = True;
 						  ```
 			-
 	- 2
