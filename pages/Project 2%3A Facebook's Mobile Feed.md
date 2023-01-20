@@ -32,6 +32,7 @@
 		- Your public Vercel link (test that you can visit this link in an incognito window)
 -
 - **Step 1**: Craft your plan in GitHub issues, send me that link in slack.
+	- logseq://graph/logseq?block-id=63c8c738-c03d-4c75-b387-0c4195a4a72c
 	-
 	- Open your terminal and `cd` into your **msimbo-projects** folder
 	- Clone this repo, `git clone git@github.com:msimbo/f23c1-google-converter.git` #Git
