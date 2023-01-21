@@ -86,8 +86,7 @@
 			- >type `node_modules` in .gitignore file
 		- issue : [[Push to GitHub]]
 			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
-			-
-		- issue : in `package.json`
+		- issue : in `package.json` check
 			- ```js
 			  {
 			    "devDependencies": {
