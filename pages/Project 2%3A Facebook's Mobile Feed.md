@@ -84,30 +84,19 @@
 		- issue : [[Push to GitHub]]
 			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
 			-
-	-
-	-
-	-
-	- in `.gitignore`
-		- ```git
-		  node_modules
-		  ```
-	- in `tailwind.config.js`
-		- ```js
-		  content: ["./*.html"],
-		  ```
-	- in `package.json`
-		- ```js
-		  {
-		    "devDependencies": {
-		      "live-server": "git+https://github.com/tapio/live-server.git#ad22544",
-		      "tailwindcss": "^3.2.4"
-		    },
-		    "scripts": {
-		      "watch:css": "npx tailwindcss -i ./src/tailwind.css -o ./css/style.css --watch",
-		      "serve:dev": "live-server ."
-		    }
-		  }
-		  ```
+		- issue : in `package.json`
+			- ```js
+			  {
+			    "devDependencies": {
+			      "live-server": "git+https://github.com/tapio/live-server.git#ad22544",
+			      "tailwindcss": "^3.2.4"
+			    },
+			    "scripts": {
+			      "watch:css": "npx tailwindcss -i ./src/tailwind.css -o ./css/style.css --watch",
+			      "serve:dev": "live-server ."
+			    }
+			  }
+			  ```
 	- in `index.html`
 		- ```html
 		      <link rel="stylesheet" href="css/style.css">
