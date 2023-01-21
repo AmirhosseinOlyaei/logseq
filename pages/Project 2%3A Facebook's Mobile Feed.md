@@ -60,6 +60,11 @@
 			- ```bash
 			  mkdir src && cd src && touch tailwind.css
 			  ```
+			- ```css
+			  @tailwind base;
+			  @tailwind components;
+			  @tailwind utilities;
+			  ```
 			-
 			-
 			-
