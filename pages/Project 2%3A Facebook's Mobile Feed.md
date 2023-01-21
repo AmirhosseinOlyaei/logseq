@@ -101,4 +101,4 @@
 		- issue : [[Push to GitHub]]
 			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
 		- issue : {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
-		-
+		- issue : signed in to #Jsitor
