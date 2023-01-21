@@ -73,10 +73,9 @@
 		- issue : in `index.html` head add `<link href="/css/styles.css" rel="stylesheet">`
 		- issue : Run: `yarn` to build the packages this project depends on.
 			- a new #bash tab for each line of code in #vscode
-		- `cd facebook-tailwind`
-		-
-		- Run `yarn serve:dev` to preview the project. a new #bash tab in #vscode
-		- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script. a new #bash tab in #vscode. rename tabs
+			- `cd facebook-tailwind`
+			- Run `yarn serve:dev` to preview the project.
+			- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script. a new #bash tab in #vscode. rename tabs
 	- {{embed ((63c8c738-c03d-4c75-b387-0c4195a4a72c))}}
 	-
 	- Open your terminal and `cd` into your **msimbo-projects** folder
