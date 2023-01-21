@@ -72,7 +72,7 @@
 			  ```
 		- issue : in `index.html` head add `<link href="/css/styles.css" rel="stylesheet">`
 		- issue : Run: `yarn` to build the packages this project depends on.
-			- a new #bash tab in #vscode
+			- a new #bash tab for each line of code in #vscode
 		- `cd facebook-tailwind`
 		-
 		- Run `yarn serve:dev` to preview the project. a new #bash tab in #vscode
