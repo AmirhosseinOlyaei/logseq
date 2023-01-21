@@ -49,7 +49,8 @@
 			  sudo yarn add -D tailwindcss
 			  ```
 		- issue : create the file `touch .gitignore`
-			- >
+			- >type `node_modules` in .gitignore file
+			-
 	- {{embed ((63c8c738-c03d-4c75-b387-0c4195a4a72c))}}
 	-
 	- Open your terminal and `cd` into your **msimbo-projects** folder
