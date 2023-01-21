@@ -78,14 +78,6 @@
 			- Run `yarn serve:dev` to preview the project.
 			- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
 			- Rename tabs
-		- issue : in `index.html` head add
-			- ```html
-			  <link href="/css/styles.css" rel="stylesheet">
-			  ```
-		- issue : create the file `touch .gitignore`
-			- >type `node_modules` in .gitignore file
-		- issue : [[Push to GitHub]]
-			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
 		- issue : in `package.json` check
 			- ```js
 			  {
@@ -99,4 +91,12 @@
 			    }
 			  }
 			  ```
+		- issue : in `index.html` head add
+			- ```html
+			  <link href="/css/styles.css" rel="stylesheet">
+			  ```
+		- issue : create the file `touch .gitignore`
+			- >type `node_modules` in .gitignore file
+		- issue : [[Push to GitHub]]
+			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
 	-
