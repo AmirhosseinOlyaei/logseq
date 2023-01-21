@@ -80,6 +80,7 @@
 			- Rename tabs
 		- issue : in `index.html` head add
 			- ```html
+			  <link href="/css/styles.css" rel="stylesheet">
 			  ```
 		- issue : create the file `touch .gitignore`
 			- >type `node_modules` in .gitignore file
@@ -99,14 +100,4 @@
 			    }
 			  }
 			  ```
-	- in `index.html`
-		- ```html
-		      <link rel="stylesheet" href="css/style.css">
-		  ```
-	- in `src/tailwind.css`
-		- ```css
-		  @tailwind base;
-		  @tailwind components;
-		  @tailwind utilities;
-		  ```
 	-
