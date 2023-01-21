@@ -57,7 +57,8 @@
 			  content: ["./src/**/*.{html,js}"],
 			  ```
 		- issue :
-			- ```css
+			- ```bash
+			  mkdir src && cd src && touch tailwind.css
 			  ```
 			-
 			-
