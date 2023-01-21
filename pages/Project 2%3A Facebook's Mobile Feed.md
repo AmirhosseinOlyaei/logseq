@@ -68,6 +68,7 @@
 		- issue : Start the Tailwind CLI build process
 			- Run the CLI tool to scan your template files for classes and build your CSS.
 			- ```bash
+			  npx tailwindcss -i ./src/tailwind.css -o ./dist/output.css --watch
 			  ```
 			-
 	- {{embed ((63c8c738-c03d-4c75-b387-0c4195a4a72c))}}
