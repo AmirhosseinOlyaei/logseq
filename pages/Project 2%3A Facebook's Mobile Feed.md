@@ -9,6 +9,7 @@
 	  ![](https://i.imgur.com/iVi8u3z.jpeg)
 - **Prerequisites Materials**
 	- Download and [install Responsively](https://responsively.app/)
+	  id:: c4d2a444-99be-4803-8ebd-a5834d051d49
 	  
 	  (You will use this as your web browser to preview your work through this project)
 	- Register for Jsitor or Codepen
@@ -99,4 +100,5 @@
 			- >type `node_modules` in .gitignore file
 		- issue : [[Push to GitHub]]
 			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
-	-
+		- issue : {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
+		-
