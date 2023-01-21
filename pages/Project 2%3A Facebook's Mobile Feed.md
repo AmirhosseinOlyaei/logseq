@@ -75,7 +75,6 @@
 			  yarn serve:dev
 			  yarn watch:css
 			  ```
-			- `cd facebook-tailwind`
 			- Run `yarn serve:dev` to preview the project.
 			- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
 			- Rename tabs
