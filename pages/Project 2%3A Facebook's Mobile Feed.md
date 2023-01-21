@@ -78,7 +78,9 @@
 			- Run `yarn serve:dev` to preview the project.
 			- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
 			- Rename tabs
-		- issue : in `index.html` head add `<link href="/css/styles.css" rel="stylesheet">`
+		- issue : in `index.html` head add
+			- ```html
+			  ```
 		- issue : create the file `touch .gitignore`
 			- >type `node_modules` in .gitignore file
 		- issue : [[Push to GitHub]]
