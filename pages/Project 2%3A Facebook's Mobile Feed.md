@@ -44,7 +44,7 @@
 			  mkdir facebook-tailwind
 			  cd facebook-tailwind
 			  ```
-		- issue : Install tailwind dipendancy
+		- issue : Install tailwind dependancy
 			- ```bash
 			  sudo yarn add -D tailwindcss
 			  ```
