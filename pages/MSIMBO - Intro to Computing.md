@@ -165,17 +165,17 @@
 	- push to #GitHub #Git
 	  id:: 63c83f7e-3974-4694-811b-8f77819b0408
 		- in #CLI , go up one folder (out of `src`),
-		- initialize the `project-tw` folder.
+		- initialize the `facebook-tailwind` folder.
 		- ```
 		  cd ..
 		  git init
 		  git add .
 		  git commit -m "tailwind cli configuration"
 		  ```
-		- on GitHub, create a repository. `project-tailwind-config`
+		- on GitHub, create a repository. `facebook-tailwind`
 		- push an existing repository from the command line
 		- ```
-		  git remote add origin git@github.com:AmirhosseinOlyaei/project-tailwind-config.git
+		  git remote add origin git@github.com:AmirhosseinOlyaei/facebook-tailwind.git
 		  git branch -M main
 		  git push -u origin main
 		  ```
