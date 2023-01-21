@@ -68,13 +68,13 @@
 			- ```bash
 			  npx tailwindcss -i ./src/tailwind.css -o ./css/styles.css --watch
 			  ```
-		- issue : in `index.html` head add `<link href="/css/styles.css" rel="stylesheet">`
 		- issue : Run: `yarn` to build the packages this project depends on.
 			- a new #bash tab for each line of code in #vscode
 			- `cd facebook-tailwind`
 			- Run `yarn serve:dev` to preview the project.
 			- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
 			- Rename tabs
+		- issue : in `index.html` head add `<link href="/css/styles.css" rel="stylesheet">`
 		- issue : create the file `touch .gitignore`
 			- >type `node_modules` in .gitignore file
 	- {{embed ((63c8c738-c03d-4c75-b387-0c4195a4a72c))}}
