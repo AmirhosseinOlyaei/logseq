@@ -71,9 +71,10 @@
 			  npx tailwindcss -i ./src/tailwind.css -o ./css/styles.css --watch
 			  ```
 		- issue : in `index.html` head add `<link href="/css/styles.css" rel="stylesheet">`
-		- issue :
+		- issue : Run: `yarn` to build the packages this project depends on.
+			- a new #bash tab in #vscode
 		- `cd facebook-tailwind`
-		- Run: `yarn` to build the packages this project depends on. a new #bash tab in #vscode
+		-
 		- Run `yarn serve:dev` to preview the project. a new #bash tab in #vscode
 		- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script. a new #bash tab in #vscode. rename tabs
 	- {{embed ((63c8c738-c03d-4c75-b387-0c4195a4a72c))}}
