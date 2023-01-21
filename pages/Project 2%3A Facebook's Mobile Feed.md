@@ -8,7 +8,7 @@
 	- 2. TailwindCSS is [a mobile-first platform](https://tailwindcss.com/docs/responsive-design#working-mobile-first)
 	  ![](https://i.imgur.com/iVi8u3z.jpeg)
 - **Prerequisites Materials**
-	- Download and [install Responsively](https://responsively.app/)
+	- Download and [install Responsively](https://responsively.app/) #responsively.app
 	  id:: c4d2a444-99be-4803-8ebd-a5834d051d49
 	  
 	  (You will use this as your web browser to preview your work through this project)
