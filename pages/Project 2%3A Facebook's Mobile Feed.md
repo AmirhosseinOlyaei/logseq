@@ -102,11 +102,9 @@
 		- issue : Prevent node_modules folder from being pushed to GitHub
 			- >create the file `touch .gitignore`
 			- >type `node_modules` in .gitignore file
-		- issue : Initialize the `facebook-tailwind` folder
-			-
-			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
 		- issue : [[Push to GitHub]]
-		- {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
+			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
+		- issue : {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
 		- issue : sign in to #Jsitor
 - When you're adding the commit for this, add a comment as "fixes [#1](https://github.com/AmirhosseinOlyaei/google-html/issues/1) - adds the reset.css file".
 -
