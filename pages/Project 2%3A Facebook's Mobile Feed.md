@@ -53,7 +53,7 @@
 			- ```bash
 			  npx tailwindcss init
 			  ```
-			- >Configure your template paths.
+		- issue: Configure your template paths
 			- >Add the paths to all of your template files in your `tailwind.config.js` file.
 			- ```js
 			  content: ["./src/**/*.{html,js}"], ["./*.html"],
