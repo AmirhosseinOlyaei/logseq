@@ -165,7 +165,7 @@
 	- push to #GitHub #Git
 	  id:: 63c83f7e-3974-4694-811b-8f77819b0408
 		- in #CLI , go up one folder (out of `src`),
-		- initialize the `facebook-tailwind` folder.
+		-
 		- ```
 		  cd ..
 		  git init
