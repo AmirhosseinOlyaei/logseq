@@ -1,4 +1,6 @@
 - #### Linking Job titles with description and requirements
 - ---
+- https://handbook.msimbo.org/resources/applying-for-tech-roles
+-
 - #Software Engineering
 -
