@@ -108,3 +108,9 @@
 			- {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
 		- issue : sign in to #Jsitor
 - When you're adding the commit for this, add a comment as "fixes [#1](git@github.com/AmirhosseinOlyaei/facebook-tailwind/issues/1) - adds the reset.css file".
+- The syntax for closing keywords depends on whether the issue is in the same repository as the pull request.
+  | Linked issue | Syntax | Example |
+  | ---- | ---- | ---- |
+  | Issue in the same repository | *KEYWORD* #*ISSUE-NUMBER* | `Closes #10` |
+  | Issue in a different repository | *KEYWORD* *OWNER*/*REPOSITORY*#*ISSUE-NUMBER* | `Fixes octo-org/octo-repo#100` |
+  | Multiple issues | Use full syntax for each issue | `Resolves #10, resolves #123, resolves octo-org/octo-repo#100` |
