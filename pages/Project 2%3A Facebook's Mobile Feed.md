@@ -50,7 +50,9 @@
 			  sudo yarn add -D tailwindcss
 			  ```
 		- issue: Initialize tailwindcss
-			-
+			- ```bash
+			  npx tailwindcss init
+			  ```
 			- >Configure your template paths.
 			- >Add the paths to all of your template files in your `tailwind.config.js` file.
 			- ```js
