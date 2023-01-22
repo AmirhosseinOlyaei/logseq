@@ -73,15 +73,15 @@
 			  npx tailwindcss -i ./src/tailwind.css -o ./css/styles.css --watch
 			  ```
 		- issue : Run: `yarn` to build the packages this project depends on.
-			- a new #bash tab for each line of code in #vscode
+			- >a new #bash tab for each line of code in #vscode
 			- ```bash
 			  cd facebook-tailwind
 			  yarn serve:dev
 			  yarn watch:css
 			  ```
-			- Run `yarn serve:dev` to preview the project.
-			- Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
-			- Rename tabs
+			- >Run `yarn serve:dev` to preview the project.
+			- >Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
+			- >Rename tabs
 		- issue : in `package.json` check
 			- ```js
 			  {
