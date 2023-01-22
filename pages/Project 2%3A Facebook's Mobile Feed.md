@@ -99,7 +99,8 @@
 			- ```html
 			  <link href="/css/styles.css" rel="stylesheet">
 			  ```
-		- issue : create the file `touch .gitignore`
+		- issue : Prevent node_modules from being pushed to GitHub
+			- >create the file `touch .gitignore`
 			- >type `node_modules` in .gitignore file
 		- issue : [[Push to GitHub]]
 			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
