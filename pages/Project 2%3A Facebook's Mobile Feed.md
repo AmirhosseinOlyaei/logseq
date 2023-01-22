@@ -58,7 +58,7 @@
 			- ```js
 			  content: ["./src/**/*.{html,js}"], ["./*.html"],
 			  ```
-		- issue : Add the Tailwind directives to your CSS
+		- issue : Add Tailwind instructions to main CSS file
 			- ```bash
 			  mkdir src && cd src && touch tailwind.css
 			  ```
