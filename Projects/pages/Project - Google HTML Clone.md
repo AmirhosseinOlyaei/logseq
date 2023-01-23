@@ -1,0 +1,14 @@
+- Problem
+	- Design a HTML/CSS clone of google.com
+-
+- Roadmap
+	- DONE Create project folder
+	- DONE Create base `readme.md` and `index.html` files
+		- ``
+	- DONE Push project to Github repo called google-html
+	- DONE Send @Dele link to Repo on slack
+	- DONE Create new branch called `feature/css-styling`
+	- DONE create empty style.css file
+	- DONE Push project update to GitHub on new branch
+	- DONE Send @Dele link to repo for the new branch on slack
+	- DONE Confirm I can fix from GitHub issues
