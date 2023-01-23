@@ -235,7 +235,7 @@
 		  @tailwind components;
 		  @tailwind utilities;
 		  ```
-	-
+-
 -
 - send the link of #issues on sleck
 -
