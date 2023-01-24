@@ -54,7 +54,7 @@
 			-
 			-
 -
-- [[Project - Google HTML Clone]]
+- [[Project 1: Google HTML Clone]]
 -
 - [[HTML]] #shortcuts
 	- input+btm+btn
@@ -191,7 +191,7 @@
 -
 - [[Project 2: Facebook's Mobile Feed]]
 -
-- [[Project - f23c1-google-converter]]: `~/msimbo-projects/googlemini-calculator›` convert to celsius.
+- [[Project 3: f23c1-google-converter]]: `~/msimbo-projects/googlemini-calculator›` convert to celsius.
 	- ## Summary
 	  
 	  A walkthrough of Javascript ideas while building Google's converter.
