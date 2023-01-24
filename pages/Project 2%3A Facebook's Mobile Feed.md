@@ -69,7 +69,7 @@
 			  ```
 		- issue : Start the Tailwind CLI build process
 			- Run the CLI tool to scan your template files for classes and build your CSS.
-			- ```bash
+			- ```TW
 			  npx tailwindcss -i ./src/tailwind.css -o ./css/styles.css --watch
 			  ```
 		- issue : Run: `yarn` to build the packages this project depends on.
@@ -82,6 +82,10 @@
 			- >Run `yarn serve:dev` to preview the project.
 			- >Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
 			- >Rename tabs
+		- issue : install `live-server`
+			- ```node
+			  yarn add -D live-server
+			  ```
 		- issue : in `package.json` check
 			- ```js
 			  {
@@ -108,3 +112,5 @@
 			- {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
 		- issue : sign in to #Jsitor
 - When you're adding the commit for this, add a comment as "fixes [#1](git@github.com/AmirhosseinOlyaei/facebook-tailwind/issues/1) - adds the reset.css file".
+- https://flexboxfroggy.com/ #Flexbox exercise
+-

@@ -1,4 +1,5 @@
 - **f23c1-google-converter**
+- An app that converts from Fahrenheit to Degree Celsius like Google's mini-app
 - Algorithms:
 	- Design a set of instructions to solve a problem
 		- >1. Get data from the user
@@ -27,7 +28,9 @@
 						  const isANewApp = true;
 						  ```
 				- >**Making decisions:**
-					- >4. Conditional Operators; `===`, `==`, `=`
+					- >4. Conditional Operators;
+						- equal?`===`, `==`, `=`, not equal`!==`, `>`, `<`
+					-
 					- >5. Conditional statements;
 						- ```js
 						  const isNewApp = true;
@@ -85,4 +88,8 @@
 - #### [[Template literals]] (Template strings)
 	- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 -
+- [[Deliberate practice]] is defined as **being effortful in nature, with the main goal of personal improvement of performance rather than enjoyment, and is often performed without immediate reward**. From: Performance Psychology, 2011.
+-
+- https://playcode.io/1092856 Dele's sample code
+- https://jsitor.com/xTWbs1cnrZ my progress
 -
