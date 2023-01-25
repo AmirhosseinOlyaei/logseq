@@ -112,9 +112,9 @@
 			- >type `node_modules` in .gitignore file
 		- issue : [[Push to GitHub]]
 			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
-			- issue : Install `responsively.app` as a web browser to preview my work
-				- {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
-			- issue : sign in to #Jsitor
+		- issue : Install `responsively.app` as a web browser to preview my work
+			- {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
+		- issue : sign in to #Jsitor
 - When you're adding the commit for this, add a comment as "fixes [#1](git@github.com/AmirhosseinOlyaei/facebook-tailwind/issues/1) - adds the reset.css file".
 - https://flexboxfroggy.com/ #Flexbox exercise
 -
