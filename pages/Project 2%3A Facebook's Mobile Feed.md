@@ -34,6 +34,7 @@
 		- Your public Vercel link (test that you can visit this link in an incognito window)
 -
 - **Roadmap**
+	- [[Bootstrapping a Web Project]]
 	- Due: [[Jan 24th, 2023]]
 	- **Step 1**: Craft your plan in GitHub issues, send me `Dele` that link in slack.
 		-
@@ -48,10 +49,10 @@
 			  mkdir facebook-tailwind
 			  cd facebook-tailwind
 			  ```
-			- issue : Install tailwind CSS
-				- ```bash
-				  sudo yarn add -D tailwindcss
-				  ```
+		- issue : Install tailwind CSS
+			- ```bash
+			  sudo yarn add -D tailwindcss
+			  ```
 			- issue: Initialize tailwindcss
 				- ```bash
 				  npx tailwindcss init
