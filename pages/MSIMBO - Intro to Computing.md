@@ -80,7 +80,7 @@
 	- In #search engine type "!gh"
 	- !g chrome color picker #extension
 	- !yt create a ... #search in youtube
-	- sponsorblock #extension chrome
+	- sponsorblock skip sponsorship segments in YouTube videos.#extension chrome
 	- DF tube #extension chrome
 	- #search shareX download. Create a live gif link for windows
 -
