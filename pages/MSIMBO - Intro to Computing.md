@@ -76,11 +76,11 @@
 -
 - #SVG #icons https://heroicons.com/
 -
-- #search & #extension
+- [[extension]] [[search]] [[chrome]]
 	- In #search engine type "!gh"
 	- !g chrome color picker #extension
 	- !yt create a ... #search in youtube
-	- SponsorBlock skip sponsorship segments in YouTube videos. chrome
+	- SponsorBlock skip sponsorship segments in YouTube videos.
 	- DF tube #extension chrome
 	- #search shareX download. Create a live gif link for windows
 -
