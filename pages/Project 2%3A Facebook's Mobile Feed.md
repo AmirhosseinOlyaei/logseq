@@ -110,6 +110,9 @@
 		- issue : Prevent node_modules folder from being pushed to GitHub
 			- >create the file `touch .gitignore`
 			- >type `node_modules` in .gitignore file
+			- ```bash
+			  echo "node_modules" > .gitignore
+			  ```
 		- issue : [[Push to GitHub]]
 			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
 		- issue : Install `responsively.app` as a web browser to preview my work
