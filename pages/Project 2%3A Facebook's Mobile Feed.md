@@ -33,8 +33,10 @@
 		- Your public GitHub link (test that you can visit this link in an incognito window)
 		- Your public Vercel link (test that you can visit this link in an incognito window)
 -
-- **Step 1**: Craft your plan in GitHub issues, send me that link in slack.
-	- logseq://graph/logseq?block-id=63c8c738-c03d-4c75-b387-0c4195a4a72c
+- **Roadmap**
+	- Due: [[Jan 24th, 2023]]
+	- **Step 1**: Craft your plan in GitHub issues, send me `Dele` that link in slack.
+		-
 		- issue : Download Node.js LTS.
 			- https://nodejs.org/en/
 		- issue : Installing yarn
@@ -46,72 +48,72 @@
 			  mkdir facebook-tailwind
 			  cd facebook-tailwind
 			  ```
-		- issue : Install tailwind CSS
-			- ```bash
-			  sudo yarn add -D tailwindcss
-			  ```
-		- issue: Initialize tailwindcss
-			- ```bash
-			  npx tailwindcss init
-			  ```
-		- issue: Configure your template paths
-			- >Add the paths to all of your template files in your `tailwind.config.js` file.
-			- ```js
-			  content: ["./src/**/*.{html,js}"], ["./*.html"],
-			  ```
-		- issue : Add Tailwind instructions to main CSS file
-			- ```bash
-			  mkdir src && cd src && touch tailwind.css
-			  ```
-			- ```css
-			  @tailwind base;
-			  @tailwind components;
-			  @tailwind utilities;
-			  ```
-		- issue : Start the Tailwind CLI build process
-			- Run the CLI tool to scan your template files for classes and build your CSS.
-			- ```TW
-			  npx tailwindcss -i ./src/tailwind.css -o ./css/styles.css --watch
-			  ```
-		- issue : Run: `yarn` to build the packages this project depends on.
-			- >a new #bash tab for each line of code in #vscode
-			- ```bash
-			  cd facebook-tailwind
-			  yarn serve:dev
-			  yarn watch:css
-			  ```
-			- >Run `yarn serve:dev` to preview the project.
-			- >Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
-			- >Rename tabs
-		- issue : install `live-server`
-			- ```node
-			  yarn add -D live-server
-			  ```
-		- issue : in `package.json` check
-			- ```js
-			  {
-			    "devDependencies": {
-			      "live-server": "git+https://github.com/tapio/live-server.git#ad22544",
-			      "tailwindcss": "^3.2.4"
-			    },
-			    "scripts": {
-			      "watch:css": "npx tailwindcss -i ./src/tailwind.css -o ./css/style.css --watch",
-			      "serve:dev": "live-server ."
-			    }
-			  }
-			  ```
-		- issue : in `index.html` head add
-			- ```html
-			  <link href="/css/styles.css" rel="stylesheet">
-			  ```
-		- issue : Prevent node_modules folder from being pushed to GitHub
-			- >create the file `touch .gitignore`
-			- >type `node_modules` in .gitignore file
-		- issue : [[Push to GitHub]]
-			- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
-		- issue : Install `responsively.app` as a web browser to preview my work
-			- {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
-		- issue : sign in to #Jsitor
+			- issue : Install tailwind CSS
+				- ```bash
+				  sudo yarn add -D tailwindcss
+				  ```
+			- issue: Initialize tailwindcss
+				- ```bash
+				  npx tailwindcss init
+				  ```
+			- issue: Configure your template paths
+				- >Add the paths to all of your template files in your `tailwind.config.js` file.
+				- ```js
+				  content: ["./src/**/*.{html,js}"], ["./*.html"],
+				  ```
+			- issue : Add Tailwind instructions to main CSS file
+				- ```bash
+				  mkdir src && cd src && touch tailwind.css
+				  ```
+				- ```css
+				  @tailwind base;
+				  @tailwind components;
+				  @tailwind utilities;
+				  ```
+			- issue : Start the Tailwind CLI build process
+				- Run the CLI tool to scan your template files for classes and build your CSS.
+				- ```TW
+				  npx tailwindcss -i ./src/tailwind.css -o ./css/styles.css --watch
+				  ```
+			- issue : Run: `yarn` to build the packages this project depends on.
+				- >a new #bash tab for each line of code in #vscode
+				- ```bash
+				  cd facebook-tailwind
+				  yarn serve:dev
+				  yarn watch:css
+				  ```
+				- >Run `yarn serve:dev` to preview the project.
+				- >Run `yarn watch:css` to start making changes to the tailwind styles. This starts the tailwind build script.
+				- >Rename tabs
+			- issue : install `live-server`
+				- ```node
+				  yarn add -D live-server
+				  ```
+			- issue : in `package.json` check
+				- ```js
+				  {
+				    "devDependencies": {
+				      "live-server": "git+https://github.com/tapio/live-server.git#ad22544",
+				      "tailwindcss": "^3.2.4"
+				    },
+				    "scripts": {
+				      "watch:css": "npx tailwindcss -i ./src/tailwind.css -o ./css/style.css --watch",
+				      "serve:dev": "live-server ."
+				    }
+				  }
+				  ```
+			- issue : in `index.html` head add
+				- ```html
+				  <link href="/css/styles.css" rel="stylesheet">
+				  ```
+			- issue : Prevent node_modules folder from being pushed to GitHub
+				- >create the file `touch .gitignore`
+				- >type `node_modules` in .gitignore file
+			- issue : [[Push to GitHub]]
+				- {{embed ((63c83f7e-3974-4694-811b-8f77819b0408))}}
+			- issue : Install `responsively.app` as a web browser to preview my work
+				- {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
+			- issue : sign in to #Jsitor
 - When you're adding the commit for this, add a comment as "fixes [#1](git@github.com/AmirhosseinOlyaei/facebook-tailwind/issues/1) - adds the reset.css file".
 - https://flexboxfroggy.com/ #Flexbox exercise
 -

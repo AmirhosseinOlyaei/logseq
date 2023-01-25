@@ -56,7 +56,7 @@
 -
 - [[Project 1: Google HTML Clone]]
 -
-- [[HTML]] #shortcuts
+- [[HTML]] #shortcut
 	- input+btm+btn
 	- div*3
 	- ctrl+command+d
@@ -238,4 +238,11 @@
 -
 -
 - send the link of #issues on sleck
+- [[voice control]] for [[chatgpt]] [[chrome]] [[extension]]
+- [[quillbot]] [[ai]] [[chrome]] [[extension]]
+- https://studio.d-id.com [[d-id]]
+-
+-
+-
+-
 -
