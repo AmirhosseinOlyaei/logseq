@@ -1,6 +1,7 @@
 - https://programs.ulem.org/mod/assign/view.php?id=325
 - [[MSIMBO - Intro to Computing]]
-- Bootstrapping Tailwindcss CLI with node.js to replicate Facebook news feed.
+- [[Bootstrapping a Web Project]]
+	- Bootstrapping Tailwindcss CLI with node.js to replicate Facebook news feed.
 - **Goal**
 	- Using #TailwindCSS, design your own version of the Facebook mobile newsfeed (you will need 3 pages).
 	  
@@ -34,7 +35,6 @@
 		- Your public Vercel link (test that you can visit this link in an incognito window)
 -
 - **Roadmap**
-	- [[Bootstrapping a Web Project]]
 	- Due: [[Jan 24th, 2023]]
 	- **Step 1**: Craft your plan in GitHub issues, send me `Dele` that link in slack.
 		-
