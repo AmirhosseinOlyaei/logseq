@@ -1,3 +1,5 @@
 - `option + command + up/down` [[shortcut]]
 - `option + click` multiple cursor [[shortcut]]
+- `⌘D` selects the word at the cursor, or the next occurrence of the current selection. [[shortcut]]
+-
 -
