@@ -1,1 +1,2 @@
-- option + command + up/down [[shortcut]]
+- `option + command + up/down` [[shortcut]]
+- `option + click` [[shortcut]]
