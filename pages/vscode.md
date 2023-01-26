@@ -1,2 +1,3 @@
 - `option + command + up/down` [[shortcut]]
-- `option + click` [[shortcut]]
+- `option + click` multiple cursor [[shortcut]]
+-
