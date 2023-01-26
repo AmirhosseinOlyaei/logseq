@@ -12,33 +12,33 @@ Quiz 1: FizzBuzz
 - How to Submit Your Work
 	- Submit the following to the appropriate section on Moodle
 		- Your working Jsitor link for exercise 1
-		- Another working Jsitor link for exercise 2  
-		  <br>
-		  
-		  ```js
-		  for (let i = 1; i <= 100; i++) {
-		    if (i % 3 === 0 && i % 5 === 0) {
-		      console.log("FizzBuzz");
-		    } else if (i % 3 === 0) {
-		      console.log("Fizz");
-		    } else if (i % 5 === 0) {
-		      console.log("Buzz");
-		    } else {
-		      console.log(i);
-		    }
-		  }
-		  ```
-		  https://jsitor.com/xTdws4lx-h  
-		  <br>
-		  ```js
-		  for (let i = 1; i <= 100; i++) {
-		    if (i % 3 === 0) {
-		      console.log("Fizz");
-		    } else if (i % 5 === 0) {
-		      console.log("Buzz");
-		    } else {
-		      console.log(i);
-		    }
-		  }
-		  ```
-		  https://jsitor.com/VuESvg9EBx
+- Another working Jsitor link for exercise 2  
+  <br>
+-
+- ```js
+  for (let i = 1; i <= 100; i++) {
+    if (i % 3 === 0 && i % 5 === 0) {
+      console.log("FizzBuzz");
+    } else if (i % 3 === 0) {
+      console.log("Fizz");
+    } else if (i % 5 === 0) {
+      console.log("Buzz");
+    } else {
+      console.log(i);
+    }
+  }
+  ```
+  https://jsitor.com/xTdws4lx-h  
+  <br>
+  ```js
+  for (let i = 1; i <= 100; i++) {
+    if (i % 3 === 0) {
+      console.log("Fizz");
+    } else if (i % 5 === 0) {
+      console.log("Buzz");
+    } else {
+      console.log(i);
+    }
+  }
+  ```
+  https://jsitor.com/VuESvg9EBx
