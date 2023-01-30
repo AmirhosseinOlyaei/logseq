@@ -147,7 +147,12 @@
         />
         <input type="email" name="email" id="email" placeholder="Enter Email" />
         <input type="number" name="age" id="age" placeholder="Enter age" />
-  
+        <input
+          type="text"
+          name="s-class"
+          id="s-class"
+          placeholder="Enter class"
+        />
         <input type="submit" value="Add Student" />
       </form>
   
