@@ -1,5 +1,4 @@
-## 
- Project 3: My GitHub Login
+- ## My GitHub Login
 - **Goal**
 - Help GitHub designed their login form with Validation. A replica of [https://github.com/login](https://github.com/login) (you need to be logged out from GH to access the page)
   
