@@ -18,4 +18,6 @@
 - issues:
 	- #1 install node.js & yarn
 		- `https://nodejs.org/en/`
+		- `sudo npm i -g yarn`
+		-
 		-
