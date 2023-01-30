@@ -14,3 +14,7 @@
 - [Get an HTML ElementbyId](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 - ["Watching an event on an element"](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
 - [Relevant JS events](https://data-flair.training/blogs/javascript-event-types/)
+-
+- issues:
+	- #1 install node.js & yarn
+		-
