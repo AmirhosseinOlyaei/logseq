@@ -25,12 +25,13 @@
   const fullNameEl = document.querySelector("#full-name");
   const emailEl = document.querySelector("#email");
   const ageEl = document.querySelector("#age");
+  const classEl = document.querySelector("#s-class");
   
   const deleteEl = document.querySelector("#delete");
   
   // 3. The listener triggers a function that **saves the data**
   let students = [];
-  let studentsOriginal = ["One", "Two", "Three", 4, 5, 6, 7, 8];
+  //let studentsOriginal = ["One", "Two", "Three", 4, 5, 6, 7, 8];
   
   // 2. define an eventListener on the submission of the form
   formEl.addEventListener("submit", function (e) {
@@ -39,11 +40,13 @@
     const fullName = fullNameEl.value;
     const email = emailEl.value;
     const age = ageEl.value;
+    const classs = classEl.value;
   
     const studentObjectLiteral = {
       full_name: fullName,
       an_email: email,
-      s_age: age
+      s_age: age,
+      s_class: classs
     };
   
     // adding an item to the array
@@ -60,6 +63,7 @@
     fullNameEl.value = "";
     emailEl.value = "";
     ageEl.value = "";
+    classEl.value = "";
   
     fullNameEl.focus();
   
@@ -71,7 +75,9 @@
   
     for (let item of students) {
       console.log(
-        `- Student: ${item["full_name"]}\n- Email:  ${item["an_email"]}\n- Age: ${item["s_age"]}`
+        `- Student: ${item["full_name"]}\n- Email:  ${item["an_email"]}\n- Age: ${
+          item["s_age"]
+        }\n- Class: ${item["s_class"]}`
       );
     }
   });
@@ -91,7 +97,9 @@
     // shows the items left
     if (students.length > 0) {
       for (let item of students) {
-        console.log(`Student: ${item["full_name"]}, Email:  ${item["an_email"]}`);
+        console.log(
+          `Student: ${item["full_name"]}, Email:  ${item["an_email"]}, Age: ${item["s_age"]}, Class: ${item["s_class"]}`
+        );
       }
     } else {
       console.log("Nothing left to remove. Add new students");
