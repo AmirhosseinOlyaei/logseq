@@ -38,5 +38,10 @@
 		- Replace: `content: ["./src/**/*.{html,js}", "./*.{html,js}"],`
 	- Create a **tailwind.css** file and add contents
 		- `touch tailwind.css`
-		-
+		- ```tailwind.css
+		  /* tailwind.css */
+		  @tailwind base;
+		  @tailwind components;
+		  @tailwind utilities;
+		  ```
 -
