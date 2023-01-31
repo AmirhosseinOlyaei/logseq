@@ -36,5 +36,7 @@
 		- `npx tailwindcss init`
 	- Modify **tailwind.config.js**
 		- Replace: `content: ["./src/**/*.{html,js}", "./*.{html,js}"],`
-	- Create a **tailwind.css** file wit this content
+	- Create a **tailwind.css** file and add contents
+		- `touch tailwind.css`
+		-
 -
