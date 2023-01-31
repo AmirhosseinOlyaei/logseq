@@ -22,8 +22,7 @@
 		  cd msimbo-projects
 		  git clone git@github.com:AmirhosseinOlyaei/my-github-login.git
 		  ```
-		-
-	- MSIMBO's handbook
+	- MSIMBO's handbook for `Tailwindcss`
 		- https://app.gitbook.com/o/7ARYFXdeWuKbQzeWPB76/s/ORacclflVRID90lsQOUg/resources/frameworks-and-libraries/setup-tailwindcss
 	- Install `npm & node`
 		- `https://nodejs.org/en/download/`
