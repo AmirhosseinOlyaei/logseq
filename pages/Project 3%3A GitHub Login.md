@@ -49,8 +49,18 @@
 	- Create an **index.html** file and reference our generated `styles.css`
 		- `touch index.html`
 		- ```index.html
-		  !+tab
-		  
+		  	<!doctype html>
+		  	<html>
+		  	<head>
+		  	  <!-- ... -->
+		  	  <meta charset="UTF-8" />
+		  	  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		  	  **<link href="styles.css" rel="stylesheet">**
+		  	</head>
+		  	<body>
+		  	   <h1 class="text-9xl"> welcome</h1>
+		  	</body>
+		  	</html>
 		  ```
 		-
 		-
