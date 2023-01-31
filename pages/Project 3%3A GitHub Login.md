@@ -19,7 +19,7 @@
 	- MSIMBO's handbook
 		- https://app.gitbook.com/o/7ARYFXdeWuKbQzeWPB76/s/ORacclflVRID90lsQOUg/resources/frameworks-and-libraries/setup-tailwindcss
 	- #1 Install `npm & node`
-		- `https://nodejs.org/en/`
+		- `https://nodejs.org/en/download/`
 		- `sudo npm i -g yarn`
 	- issue : Making facebook-tailwind project directory
 		-
