@@ -46,6 +46,7 @@
 		  ```
 	- Dynamically generate a **styles.css** file `tailwind.css` this file
 		- `npx tailwindcss -i ./tailwind.css -o ./styles.css --watch`
-	- Create an **index.html** file to reference our generated "styles.css"
+	- Create an **index.html** file and reference our generated `styles.css`
+		-
 		-
 		-
