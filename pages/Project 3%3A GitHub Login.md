@@ -34,7 +34,7 @@
 		- `cd msimbo-projects/my-github-login`
 		- `yarn add -D tailwindcss`
 		- `npx tailwindcss init`
-	- Modify `tailwind.config.js`
+	- Modify **tailwind.config.js**
 		- Replace: `content: ["./src/**/*.{html,js}", "./*.{html,js}"],`
-	- create a **tailwind.css** file with this content
+	- Create a **tailwind.css** file wit this content
 -
