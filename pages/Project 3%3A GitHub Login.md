@@ -45,5 +45,6 @@
 		  @tailwind utilities;
 		  ```
 	- Dynamically generate a **styles.css** file `tailwind.css` this file
+		- `npx tailwindcss -i ./tailwind.css -o ./styles.css --watch`
 		-
 		-
