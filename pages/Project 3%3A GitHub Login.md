@@ -17,8 +17,10 @@
 -
 - issues:
 	- Create a new repository
-	- Create my-github-login repository
-		-
+		- Create `my-github-login` repository
+		- ```bash
+		  cd msi
+		  ```
 		- git clone git@github.com:AmirhosseinOlyaei/my-github-login.git
 	- MSIMBO's handbook
 		- https://app.gitbook.com/o/7ARYFXdeWuKbQzeWPB76/s/ORacclflVRID90lsQOUg/resources/frameworks-and-libraries/setup-tailwindcss
