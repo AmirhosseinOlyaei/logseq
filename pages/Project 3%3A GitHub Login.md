@@ -44,4 +44,4 @@
 		  @tailwind components;
 		  @tailwind utilities;
 		  ```
--
+	- Dynamically generate a **styles.css** file * this file
