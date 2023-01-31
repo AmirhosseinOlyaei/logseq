@@ -122,6 +122,6 @@
 		- issue : Install `responsively.app` as a web browser to preview my work
 			- {{embed ((c4d2a444-99be-4803-8ebd-a5834d051d49))}}
 		- issue : sign in to #Jsitor
-- When you're adding the commit for this, add a comment as "fixes [#1](git@github.com/AmirhosseinOlyaei/facebook-tailwind/issues/1) - adds the reset.css file".
+- When you're adding the commit for this, add a comment as "fixes [#1](git@github.com/AmirhosseinOlyaei/facebook-tailwind/issues/1) - adds the reset.css file". [[GitHub]]
 - https://flexboxfroggy.com/ #Flexbox exercise [[CSS]]
 -
