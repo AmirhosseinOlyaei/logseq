@@ -24,13 +24,13 @@
 		  ```
 	- MSIMBO's handbook for `Tailwindcss`
 		- https://app.gitbook.com/o/7ARYFXdeWuKbQzeWPB76/s/ORacclflVRID90lsQOUg/resources/frameworks-and-libraries/setup-tailwindcss
-	- Install `npm & node`
+	- Install **npm & node**
 		- `https://nodejs.org/en/download/`
-	- Install yarn
+	- Install **yarn**
 		- `npm install --global yarn`
 		- or
 		- `sudo npm i -g yarn`
-	- Install TailwindCSS package
+	- Install **TailwindCSS package**
 		- `cd msimbo-projects/my-github-login`
 		- `yarn add -D tailwindcss`
 		- `npx tailwindcss init`
@@ -45,4 +45,5 @@
 		  @tailwind utilities;
 		  ```
 	- Dynamically generate a **styles.css** file `tailwind.css` this file
+		-
 		-
