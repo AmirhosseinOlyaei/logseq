@@ -34,6 +34,7 @@
 		- `cd msimbo-projects/my-github-login`
 		- `yarn add -D tailwindcss`
 		- `npx tailwindcss init`
-		-
+	- Modify
+		- `content: ["./src/**/*.{html,js}", "./*.{html,js}"],`
 	-
 -
