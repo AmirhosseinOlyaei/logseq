@@ -19,5 +19,7 @@
 	- #1 install node.js & yarn
 		- `https://nodejs.org/en/`
 		- `sudo npm i -g yarn`
-	- issue : Making facebook-tailwind project directoriy
+	- issue : Making facebook-tailwind project directory
+		- https://app.gitbook.com/o/7ARYFXdeWuKbQzeWPB76/s/ORacclflVRID90lsQOUg/resources/frameworks-and-libraries/setup-tailwindcss
+		-
 		-
