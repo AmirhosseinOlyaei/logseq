@@ -32,6 +32,6 @@
 		- `sudo npm i -g yarn`
 	- Install TailwindCSS package
 		- `cd msimbo-projects/my-github-login`
-		-
+		- `yarn add -D tailwindcss`
 		-
 -
