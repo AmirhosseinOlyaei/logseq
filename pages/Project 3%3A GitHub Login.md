@@ -26,3 +26,4 @@
 		- `sudo npm i -g yarn`
 	- issue : Making facebook-tailwind project directory
 		-
+-
