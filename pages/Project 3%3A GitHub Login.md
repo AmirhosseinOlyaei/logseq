@@ -26,5 +26,6 @@
 		- `sudo npm i -g yarn`
 	- issue : Making facebook-tailwind project directory
 		- `mkdir my-github-login`
-		- `cd `
+		- `cd my-github-login`
+		-
 -
