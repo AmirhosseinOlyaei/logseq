@@ -16,6 +16,7 @@
 - [Relevant JS events](https://data-flair.training/blogs/javascript-event-types/)
 -
 - issues:
+	- Create a new repo
 	- MSIMBO's handbook
 		- https://app.gitbook.com/o/7ARYFXdeWuKbQzeWPB76/s/ORacclflVRID90lsQOUg/resources/frameworks-and-libraries/setup-tailwindcss
 	- Install `npm & node`
