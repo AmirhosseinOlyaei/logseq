@@ -17,7 +17,9 @@
 -
 - issues:
 	- Create a new repository in the GitHub
-		- git@github.com:AmirhosseinOlyaei/my-github-login.git
+	- Clone
+		-
+		- git clone git@github.com:AmirhosseinOlyaei/my-github-login.git
 	- MSIMBO's handbook
 		- https://app.gitbook.com/o/7ARYFXdeWuKbQzeWPB76/s/ORacclflVRID90lsQOUg/resources/frameworks-and-libraries/setup-tailwindcss
 	- Install `npm & node`
