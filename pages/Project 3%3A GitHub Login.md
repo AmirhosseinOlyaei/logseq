@@ -17,7 +17,7 @@
 -
 - issues:
 	- Create a new repository
-		- Create `my-github-login` repository
+		- Create **my-github-login** repository
 		- ```bash
 		  cd msimbo-projects
 		  git clone git@github.com:AmirhosseinOlyaei/my-github-login.git
@@ -44,4 +44,5 @@
 		  @tailwind components;
 		  @tailwind utilities;
 		  ```
-	- Dynamically generate a **styles.css** file * this file
+	- Dynamically generate a **styles.css** file `tailwind.css` this file
+		-
