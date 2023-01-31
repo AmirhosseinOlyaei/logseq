@@ -16,10 +16,10 @@
 - [Relevant JS events](https://data-flair.training/blogs/javascript-event-types/)
 -
 - issues:
-	- issue : Making facebook-tailwind project directory
+	- MSIMBO's handbook
 		- https://app.gitbook.com/o/7ARYFXdeWuKbQzeWPB76/s/ORacclflVRID90lsQOUg/resources/frameworks-and-libraries/setup-tailwindcss
 	- #1 install node.js & yarn
 		- `https://nodejs.org/en/`
 		- `sudo npm i -g yarn`
-	-
+	- issue : Making facebook-tailwind project directory
 		-
