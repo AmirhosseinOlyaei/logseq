@@ -30,7 +30,7 @@
 		- `npm install --global yarn`
 		- or
 		- `sudo npm i -g yarn`
-	- issue : Making facebook-tailwind project directory
+	- Install TailwindCSS package
 		- `mkdir my-github-login`
 		- `cd my-github-login`
 		-
