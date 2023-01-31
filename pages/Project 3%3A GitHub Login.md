@@ -18,9 +18,9 @@
 - issues:
 	- MSIMBO's handbook
 		- https://app.gitbook.com/o/7ARYFXdeWuKbQzeWPB76/s/ORacclflVRID90lsQOUg/resources/frameworks-and-libraries/setup-tailwindcss
-	- #1 Install `npm & node`
+	- Install `npm & node`
 		- `https://nodejs.org/en/download/`
-	- #2 Install yarn
+	- Install yarn
 		- `npm install --global yarn`
 		- or
 		- `sudo npm i -g yarn`
