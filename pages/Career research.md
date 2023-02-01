@@ -16,14 +16,13 @@
 	- # Frontend Software Engineer
 		- Entry level
 		- Skills required : Computer Science, JavaScript, 3D Mapping, Back-End Web Development, Front-End Development, TS, Technical Architecture, TypeScript, User Experience (UX), User Interface Design
-	-
+		-
 		- **Required Qualifications**
 			- Degree in Computer Science, Operations Research, Electrical Engineering or related technical degree
 			- Experience working on frontend applications, especially data-intensive or map-based systems
 			- Proficiency with a programming language such as Javascript, Typescript, or Java
 			- Ability to empathize with end-users, to turn needs into features, and to balance user experience with engineering constraints
-			- Must be able to obtain and hold a U.S. TS/SCI security clearance
-			-
+		-
 		- **Preferred Qualifications**
 			- We encourage people from all backgrounds go apply but our tech stack uses AWS, C++, Go, Typescript, and React so familiarity with all of these tools and languages would be useful
 			- Previous experience working with the DoD
