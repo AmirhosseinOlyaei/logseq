@@ -12,6 +12,6 @@
 	- No or Low-Code Developer (Supabase, AirTable, Bubble, WordPress)
 	- [Junior/Entry Database Administrator](https://www.ziprecruiter.com/Career/Entry-Level-Database-Administrator/What-Is-How-to-Become)
 	-
-- Frontend Software Engineer
+- Sample availa
 # Frontend Software Engineer
 -
