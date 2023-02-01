@@ -15,20 +15,6 @@
 - Sample available positions:
 	- # Frontend Software Engineer
 		- Entry level
-		- Computer Science
-		  JavaScript
-		  3D Mapping
-		- Add
-		  Back-End Web Development
-		- Add
-		  Front-End Development
-		- Add
-		  TS
-		- Add
-		  Technical Architecture
-		- Add
-		  TypeScript
-		- Add
-		  User Experience (UX)
+		- Skills needed: Computer Science, JavaScript, 3D Mapping, Back-End Web Development, Front-End Development, TS, Technical Architecture, TypeScript, User Experience (UX)
 		- Add
 		  User Interface Design
