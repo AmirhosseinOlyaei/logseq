@@ -14,8 +14,7 @@
 	-
 - Sample available positions:
 	- # Frontend Software Engineer
-		- Entry level
-		- Skills required : Computer Science, JavaScript, 3D Mapping, Back-End Web Development, Front-End Development, TS, Technical Architecture, TypeScript, User Experience (UX), User Interface Design
+		- Skills required : Entry level, Computer Science, JavaScript, 3D Mapping, Back-End Web Development, Front-End Development, TS, Technical Architecture, TypeScript, User Experience (UX), User Interface Design
 		-
 		- **What You'll Do**
 			- Design, build, and deploy a real-time, map-based interface for displaying and interacting with sensor data and commanding physical assets
@@ -33,3 +32,4 @@
 			- Previous experience working with the DoD
 			- Startup experience
 			- 3D mapping experience
+	-
