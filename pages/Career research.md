@@ -17,6 +17,11 @@
 		- Entry level
 		- Skills required : Computer Science, JavaScript, 3D Mapping, Back-End Web Development, Front-End Development, TS, Technical Architecture, TypeScript, User Experience (UX), User Interface Design
 		-
+		- **What You'll Do**
+			- Design, build, and deploy a real-time, map-based interface for displaying and interacting with sensor data and commanding physical assets
+			- Fetch and manage large streams of data while maintaining performant rendering in a low-friction user experience
+			- Build and design immersive image-viewing experiences on multiple platforms, including web-based and mobile 3D image viewing as well as integrated VR experiences
+		-
 		- **Required Qualifications**
 			- Degree in Computer Science, Operations Research, Electrical Engineering or related technical degree
 			- Experience working on frontend applications, especially data-intensive or map-based systems
