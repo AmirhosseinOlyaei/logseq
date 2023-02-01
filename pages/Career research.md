@@ -20,7 +20,7 @@
 		- **Required Qualifications**
 			- Degree in Computer Science, Operations Research, Electrical Engineering or related technical degree
 			- Experience working on frontend applications, especially data-intensive or map-based systems
-			- Proficiency with a programming language such as **Javascript**, **Typescript**, or ***Java***
+			- Proficiency with a programming language such as **Javascript**, Typescript, or Java
 			- Ability to empathize with end-users, to turn needs into features, and to balance user experience with engineering constraints
 		-
 		- **Preferred Qualifications**
