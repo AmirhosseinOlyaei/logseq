@@ -79,5 +79,7 @@
 				- [x] Division 2: includes GitHub Sign in title
 				- [x] Division 3: includes a form
 					- [x] Label for username
-					- [x] Input
-					- [x] Lable for
+					- [x] Input box
+					- [x] Label for password
+					- [x] Input box
+					- [x] Submit bottom
