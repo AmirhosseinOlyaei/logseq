@@ -74,6 +74,7 @@
 					- [x] Password fields is not empty
 					- [x] Password fiend is more than 6 characters
 			- 1. HTML:
-				- Create a section to hold all included elements in the center of the page
-				- Division 1: includes GitHub logo
-				- Division 2: includes GitHub
+				- [x] Create a section to hold all included elements in the center of the page
+				- [x] Division 1: includes GitHub logo
+				- [x] Division 2: includes GitHub Sign in title
+				-
