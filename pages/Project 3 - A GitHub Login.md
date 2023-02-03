@@ -65,9 +65,9 @@
 			- prevent `node_module` folder from being push to the GitHub
 		- Front-end work for Project 3: My Simple ToDo
 			- Description
-				- Completing tasks utilizing HTML, TailwindCSS and JavaScript to make sure GitHub Login works smoothly and as designed.
+				- Completing tasks utilizing HTML, CSS and JavaScript to make sure GitHub Login works smoothly and as designed.
 			- Tasks
-				- 1. Design GitHub login user interface in HTML and
+				- 1. Design GitHub login user interface in HTML and Tailwindcss
 				- 2. Implement form validation in JS
 					- 2.1. Username or email address is not empty
 					- 2.2. Username or email address is more that 6 characters
