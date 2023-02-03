@@ -71,5 +71,6 @@
 				- 2. Implement form validation
 					- 2.1. Username or email address is not empty
 					- 2.2. Username or email address is more that 6 characters
-					- 2.3. Username or email address is more that 6 characters
-					-
+					- 2.3. Password fields is not empty
+					- 2.4. Password fiend is more than 6 characters.
+					- 2.5.
