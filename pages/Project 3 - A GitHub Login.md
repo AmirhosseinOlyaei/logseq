@@ -77,7 +77,7 @@
 				- [x] Create a section to hold all included elements in the center of the page
 				- [x] Division 1: includes GitHub logo
 				- [x] Division 2: includes GitHub Sign in title
-				- [x] Division 3: includes a togglrhidden
+				- [x] Division 3: includes a hidden error box
 				- [x] Division 3: includes a form
 					- [x] Label for username
 					- [x] Input box
