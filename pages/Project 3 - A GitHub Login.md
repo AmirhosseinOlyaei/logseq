@@ -63,7 +63,7 @@
 		  ```
 		- touch `.gitignore` and include `node_modules` in the file
 			- prevent `node_module` folder from being push to the GitHub
-		- Front-end work for Project 3: My Simple ToDo
+		- Front-end work for Project 3: My GitHub Login
 			- Description
 				- Completing tasks utilizing HTML, CSS and JavaScript to make sure GitHub Login works smoothly and as designed.
 			- Tasks
