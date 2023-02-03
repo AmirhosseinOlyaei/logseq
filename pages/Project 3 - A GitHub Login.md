@@ -75,4 +75,5 @@
 					- 2.4. Password fiend is more than 6 characters
 			- 1. HTML:
 				- Create a section to hold all included elements in the center of the page
-				- Division 1: includes G
+				- Division 1: includes GitHub logo
+				- Division 2: includes GitHub
