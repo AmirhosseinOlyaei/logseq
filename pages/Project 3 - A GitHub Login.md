@@ -67,10 +67,9 @@
 			- Description
 				- Completing tasks utilizing HTML, TailwindCSS and JavaScript to make sure GitHub Login works smoothly and as designed.
 			- Tasks
-				- 1. Design GitHub login user interface
-				- 2. Implement form validation
+				- 1. Design GitHub login user interface in HTML and
+				- 2. Implement form validation in JS
 					- 2.1. Username or email address is not empty
 					- 2.2. Username or email address is more that 6 characters
 					- 2.3. Password fields is not empty
-					- 2.4. Password fiend is more than 6 characters.
-					- 2.5.
+					- 2.4. Password fiend is more than 6 characters
