@@ -65,6 +65,6 @@
 			- prevent `node_module` folder from being push to the GitHub
 		- Front-end work for Project 3: My Simple ToDo
 			- Description
-				- Completing tasks utilizing HTML and TailwindCSS and JavaScript to make sure GitHub  works smoothly and as designed.
+				- Completing tasks utilizing HTML, TailwindCSS and JavaScript to make sure GitHub Login works smoothly and as designed.
 			- Tasks
 				- 1. Design GitHub form user interface
