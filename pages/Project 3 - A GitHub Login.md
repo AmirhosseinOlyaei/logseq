@@ -74,4 +74,5 @@
 					- 2.3. Password fields is not empty
 					- 2.4. Password fiend is more than 6 characters
 			- 1. HTML:
-				- Crea
+				- Create a section to hold all included elements in the center of the page
+				-
