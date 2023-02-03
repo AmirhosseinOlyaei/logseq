@@ -123,7 +123,7 @@
 	- advanced framework
 	- design pattern that is repeatable
 	- D. R. Y. => Do not repeat yourself
-	- Documentation of a project
+	- Documentation of a project [[links]]
 		- #icon https://ant.design/components/icon
 		- #bootstrap https://getbootstrap.com/docs/5.3/getting-started/introduction/
 		- #tailwindcss https://tailwindcss.com/docs/installation
