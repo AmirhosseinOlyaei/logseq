@@ -78,3 +78,6 @@
 				- [x] Division 1: includes GitHub logo
 				- [x] Division 2: includes GitHub Sign in title
 				- [x] Division 3: includes a form
+					- [x] Label for username
+					- [x] Input
+					- [x] Lable for
