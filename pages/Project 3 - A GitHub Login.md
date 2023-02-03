@@ -83,3 +83,4 @@
 					- [x] Label for password
 					- [x] Input box
 					- [x] Submit bottom
+				- [x] Division 4: registration link
