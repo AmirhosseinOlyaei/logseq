@@ -63,4 +63,6 @@
 		  ```
 		- touch `.gitignore` and include `node_modules` in the file
 			- prevent `node_module` folder from being push to the GitHub
-		- Front-end work for Project
+		- Front-end work for Project 3: My Simple ToDo
+			- Description
+				-
