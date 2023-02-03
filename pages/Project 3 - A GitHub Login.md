@@ -68,4 +68,6 @@
 				- Completing tasks utilizing HTML, TailwindCSS and JavaScript to make sure GitHub Login works smoothly and as designed.
 			- Tasks
 				- 1. Design GitHub login user interface
-				  2. Implement form validation
+				- 2. Implement form validation
+					- 2.1. Username or email address is not empty
+					-
