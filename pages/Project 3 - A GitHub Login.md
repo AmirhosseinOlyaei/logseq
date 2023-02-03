@@ -61,4 +61,4 @@
 		  	</body>
 		  	</html>
 		  ```
-		-
+		- touch `.gitignore` and include node_modules
