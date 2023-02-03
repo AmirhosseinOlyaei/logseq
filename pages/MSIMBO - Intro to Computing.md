@@ -74,7 +74,7 @@
 	- git add . && git commit -m "added an external CSS file"
 	- git push -u origin main
 -
-- [[useful links]]
+- [[links]]
 	- #SVG #icons https://heroicons.com/
 -
 - [[extension]] [[search]] [[chrome]]
@@ -130,7 +130,7 @@
 		- #foundation https://get.foundation/
 		-
 	- command+k => search box in #vscode
-	- #codeeditor
+	- #codeeditor [[links]]
 		- https://jsitor.com/
 			- extension, add library, paste tailwindcss CDN url
 		- https://playcode.io/
