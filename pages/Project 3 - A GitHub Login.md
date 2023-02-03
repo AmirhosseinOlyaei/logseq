@@ -65,4 +65,4 @@
 			- prevent `node_module` folder from being push to the GitHub
 		- Front-end work for Project 3: My Simple ToDo
 			- Description
-				- Utilizing HTML and CSS Tailwins
+				- Utilizing HTML and TailwindCSS to complete
