@@ -1,0 +1,16 @@
+- https://handbook.msimbo.org/resources/applying-for-tech-roles
+- of the following roles:
+	- [Junior/Entry Front End Web Developer](https://www.coursera.org/articles/front-end-developer)
+	- [Junior/Entry Back End Web Developer](https://www.coursera.org/articles/back-end-developer)
+	- [Junior/Entry Product Manager](https://craft.io/resources/knowledge-hub/the-role-of-the-junior-product-manager/)
+	- [Junior/Entry Technical Project Manager](https://www.coursera.org/articles/technical-project-manager)
+	- [Junior/Entry QA and Test Engineer](https://www.ziprecruiter.com/Career/Entry-Level-QA-Tester/What-Is-How-to-Become)
+	- [Web Designer](https://www.interaction-design.org/literature/topics/web-design)
+	- [Web Producer](https://www.zippia.com/web-producer-jobs/what-does-a-web-producer-do/)
+	- [Junior/Entry Developer Marketer](https://www.jobhero.com/career-guides/interviews/prep/what-is-a-content-developer)
+	- [Junior/Entry Technical Business Analyst](https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/5235/What-Does-a-Technical-Business-analyst-do.aspx)
+	- No or Low-Code Developer (Supabase, AirTable, Bubble, WordPress)
+	- [Junior/Entry Database Administrator](https://www.ziprecruiter.com/Career/Entry-Level-Database-Administrator/What-Is-How-to-Become)
+	-
+- Sample available positions:
+	-
