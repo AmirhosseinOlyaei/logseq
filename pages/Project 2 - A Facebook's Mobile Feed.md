@@ -1,6 +1,6 @@
 - https://programs.ulem.org/mod/assign/view.php?id=325
 - [[MSIMBO - Intro to Computing]]
-- [[Bootstrapping TailwindCSS CLI]]
+- [[Bootstrapping TailwindCSS]]
 	- Bootstrapping Tailwindcss CLI with node.js to replicate Facebook news feed.
 - **Goal**
 	- Using #TailwindCSS, design your own version of the Facebook mobile newsfeed (you will need 3 pages).
