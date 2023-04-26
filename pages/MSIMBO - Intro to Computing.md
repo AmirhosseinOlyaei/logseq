@@ -130,8 +130,8 @@
 		- #foundation https://get.foundation/
 		-
 	- command+k => search box in #vscode
-	- #codeeditor [[links]]
-		- codesandbox
+	- #codeeditor [[links]] #ide
+		- [codesandbox](https://codesandbox.io/)
 		- https://jsitor.com/
 			- extension, add library, paste tailwindcss CDN url
 		- https://playcode.io/
