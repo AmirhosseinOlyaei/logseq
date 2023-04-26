@@ -131,6 +131,7 @@
 		-
 	- command+k => search box in #vscode
 	- #codeeditor [[links]]
+		- codesandbox
 		- https://jsitor.com/
 			- extension, add library, paste tailwindcss CDN url
 		- https://playcode.io/
