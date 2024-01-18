@@ -319,5 +319,5 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :graph/settings {:journal? true
- :builtin-pages? false}
+ :builtin-pages? true}
  }
