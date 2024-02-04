@@ -318,5 +318,5 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:journal? true
- :builtin-pages? false}
+ :builtin-pages? true}
  }
