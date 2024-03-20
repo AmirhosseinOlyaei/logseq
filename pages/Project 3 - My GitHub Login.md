@@ -1,4 +1,4 @@
-- ## My GitHub Login
+## My GitHub Login
 - **Goal**
 - Help GitHub designed their login form with Validation. A replica of [https://github.com/login](https://github.com/login) (you need to be logged out from GH to access the page)
   
@@ -65,7 +65,7 @@
 			- prevent `node_module` folder from being push to the GitHub
 		-
 		- Bootstrapping the project
-			- [x] Todo list: closing issues with commit message. [[Git]]
+			- [x] Todo list: closing issues with commit message. [[git]]
 			- fixes #1 - Create a new repository my-simple-todo
 			- fixes # - Clone the repository in local msimbo-projects folder
 			- fixes # - Create .gitignore file

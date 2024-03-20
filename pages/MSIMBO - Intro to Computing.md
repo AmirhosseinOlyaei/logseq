@@ -63,7 +63,7 @@
 	- ! div+p
 	- select tags, ctrl+shift+p, wrap with emmet, name a tag
 -
-- #Git [reference](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+- #git [reference](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 	- git branch feature/css-styling
 	- git checkout feature/css-styling
 	- touch style.css
@@ -94,10 +94,10 @@
 - #CSS tag: nav-bar {display:flex; justify-content: space-between;}
 - #CSS tag: #right img, #right svg {width="20px"}
 - #CSS tag: nav-bar #right {display: flex; justify-content: space-evenly;}
-- #Git [show current branch in iTerm2](https://ohmyz.sh/#install)
-- #Git comment as "fixes [#1](https://github.com/AmirhosseinOlyaei/google-html/issues/1) - adds the reset.css file"
-- #Git [closing-issues-via-commit-messages](https://github.blog/2013-01-22-closing-issues-via-commit-messages)
-- #Git issue template
+- #git [show current branch in iTerm2](https://ohmyz.sh/#install)
+- #git comment as "fixes [#1](https://github.com/AmirhosseinOlyaei/google-html/issues/1) - adds the reset.css file"
+- #git [closing-issues-via-commit-messages](https://github.blog/2013-01-22-closing-issues-via-commit-messages)
+- #git issue template
 - #CSS `#footer div:nth-child(2){display: flex;}`
 - #CSS import google.font into css file. define font families and size in rem
 - #ssh authentication
@@ -175,7 +175,7 @@
 	  ![Google Converter Reference](https://i.imgur.com/9DtKDMO.png)
 	- ## Quick Start
 	- Open your terminal and `cd` into your **msimbo-projects** folder
-	- Clone this repo, `git clone git@github.com:msimbo/f23c1-google-converter.git` #Git
+	- Clone this repo, `git clone git@github.com:msimbo/f23c1-google-converter.git` #git
 	- `cd` into the [new] folder, **f23c1-google-converter**
 	- Run: `yarn` to build the packages this project depends on. #yarn
 	- Run `yarn serve:dev` to preview the project
