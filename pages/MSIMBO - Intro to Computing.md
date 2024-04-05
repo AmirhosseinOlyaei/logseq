@@ -142,7 +142,7 @@
 	  #main + #article + <div id="footer">
 	  ```
 -
-	- #Node.js download LTS
+	- #Node download LTS
 		- `sudo npm i -g yarn` or `npm install -global yarn`
 		- get in your project folder
 			- ```
