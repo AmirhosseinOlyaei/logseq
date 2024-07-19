@@ -215,7 +215,7 @@
 -
 - send the link of #issues on sleck
 - [[voice control]] for [[chatgpt]] [[chrome]] [[extension]]
-- [[quillbot]] [[ai]] [[chrome]] [[extension]]
+- [[quillbot]] [[AI]] [[chrome]] [[extension]]
 - https://studio.d-id.com [[d-id]]
 -
 -
